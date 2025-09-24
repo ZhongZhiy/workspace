@@ -1,0 +1,32 @@
+[
+  {
+    "label": "C++: Build & Run (active file)",
+    "command": "bash",
+    "args": [
+      "-lc",
+      "set -euo pipefail; src=${ZED_ACTIVE_FILE:?Open a .cpp file first}; [[ $src == *.cpp ]] || { echo 'Active file is not .cpp'; exit 1; }; stem=$(basename \"${src%.*}\"); out=\"/tmp/zed_run/${stem}\"; mkdir -p /tmp/zed_run; g++ -std=gnu++17 -O2 -pipe -Wall -Wextra -Wshadow -fno-omit-frame-pointer \"$src\" -o \"$out\" && \"$out\""
+    ],
+    "cwd": "${ZED_DIRNAME}",
+    "use_new_terminal": true
+  },
+  {
+    "label": "C++: Build (Debug) only",
+    "command": "bash",
+    "args": [
+      "-lc",
+      "set -euo pipefail; src=${ZED_ACTIVE_FILE:?}; stem=$(basename \"${src%.*}\"); out=\"/tmp/zed_run/${stem}_dbg\"; mkdir -p /tmp/zed_run; g++ -std=gnu++17 -g -O0 -fno-omit-frame-pointer \"$src\" -o \"$out\"; echo Built: $out"
+    ],
+    "cwd": "${ZED_DIRNAME}"
+  },
+  {
+    "label": "C++: Build (ASan+UBSan) & Run",
+    "command": "bash",
+    "args": [
+      "-lc",
+      "set -euo pipefail; src=${ZED_ACTIVE_FILE:?}; stem=$(basename \"${src%.*}\"); out=\"/tmp/zed_run/${stem}_asan\"; mkdir -p /tmp/zed_run; g++ -std=gnu++17 -O1 -g -fsanitize=address,undefined -fno-omit-frame-pointer \"$src\" -o \"$out\" && \"$out\""
+    ],
+    "cwd": "${ZED_DIRNAME}",
+    "use_new_terminal": true
+  }
+]
+

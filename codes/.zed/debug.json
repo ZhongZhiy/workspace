@@ -1,0 +1,18 @@
+{
+  "configurations": {
+    "C++: Launch with GDB (active file)",
+    "GDB": {
+      "program": "/tmp/zed_run/${ZED_STEM}_dbg",
+      "args": [],
+      "cwd": "${ZED_DIRNAME}"
+    },
+
+    "C++: Launch with CodeLLDB (active file)",
+    "CodeLLDB": {
+      "program": "/tmp/zed_run/${ZED_STEM}_dbg",
+      "args": [],
+      "cwd": "${ZED_DIRNAME}"
+    }
+  }
+}
+

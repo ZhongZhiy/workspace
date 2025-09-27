@@ -1,7 +1,5 @@
-#include<climits>
-#include<iostream>
-#include<cmath>
-#include<algorithm>
+
+#include<bits/stdc++.h>
 using namespace std;
 #define i128 __int128
 #define de(x) cout << (#x) << " = " << (x) << endl;
@@ -15,70 +13,42 @@ using namespace std;
 #define PLEASE_AC return 0
 typedef long long ll;
 typedef unsigned long long ull;
+#define int long long 
 
-int n, m;
-struct node{
-	int sum, id;
-	node(){}
-	node(int sum, int id):sum(sum), id(id){}
+const int N = 2e5 + 10;
+int n;
+int a[N];
 
-	bool operator < (const node& aa) const {
-		return sum < aa.sum;
+struct cmp{
+	bool operator()(const int& g, const int &b) const {
+		if(g == 0 || b == 0) return g < b;
+		int la = 64 - __builtin_clzll(g);
+		int lb = 64 - __builtin_clzll(b);
+		if(la != lb) return la > lb;
+		return g > b;
 	}
 };
 
-const int N = 1e5 + 10;
-
-node head[N];
-int a[N];
-
-void solve(){
-	head[0].sum = 0;head[0].id = 0;
-
-	fi(n) {
-		cin >> a[i];
-		head[i].sum = head[i-1].sum + a[i];
-		head[i].id = i;
-	}
-
-	sort(head, head+n+1);
-
-
-	fi(m) {
-		int tt ; cin >> tt;
-
-		int l = 0, r = 1, sum = 0, min_ = INT_MAX, ansl = 0, ansr = 1, ans = tt;
-
-		while(r <= n){
-			if(r < l) swap(l, r);
-			if(r == l) r++;
-			sum = head[r].sum - head[l].sum;
-
-			if(abs(abs(sum) - tt) < min_){
-				ans = abs(sum);
-				min_ = abs(sum - tt);
-				ansl = head[l].id;
-				ansr = head[r].id;
-				if(min_ == 0) break;
-			}
-
-			if(sum < tt) r++;
-			else l++;
-		}
-		ansr++ ;
-		if(ansr < ansl) swap(ansr, ansl);
-		cout << ans << ' ' << ansl << ' ' << ansr << endl;
-
-	}
-}
-
 signed main() {
-	//	freopen("an", "r", stdin);
+//	freopen("an", "r", stdin);
 	caillo;
 
-	while(cin >> n >> m && (n || m)) {
-		solve();
-	}
+	cin >> n;
 
+	priority_queue<int, vector<int>, cmp> q;
+
+	fi(n) {
+		int k;
+		cin >> k;
+		q.push(k);
+	}
+	int sum = 0;
+	while(q.size() > 1){
+		int f = q.top(); q.pop();
+		int s = q.top(); q.pop();
+		sum += (f&s)<<1;
+		q.push(f^s);
+	}
+	cout << sum;
 	PLEASE_AC;
 }

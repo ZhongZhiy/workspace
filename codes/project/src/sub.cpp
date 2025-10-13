@@ -1,0 +1,3 @@
+void get_(){
+	return;
+}

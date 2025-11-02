@@ -1,0 +1,40 @@
+{
+  "calendars": [],
+  "fieldFormat": "full-calendar",
+  "muted": true,
+  "timerEvent": "notification",
+  "inbox": null,
+  "search": "",
+  "taskSearch": "",
+  "fileOrder": [
+    "Daily: Dec 14",
+    "Daily: Dec 15",
+    "Daily: Dec 21",
+    "Daily: Dec 22",
+    "Daily: Dec 23",
+    "Daily: Dec 24",
+    "Daily: Jan 01",
+    "Daily: Jan 11",
+    "Daily: Jan 22",
+    "Daily: Nov 10",
+    "近来有些事"
+  ],
+  "customStatus": {
+    "include": false,
+    "statuses": "-"
+  },
+  "showCompleted": false,
+  "groupBy": "path",
+  "dayStartEnd": [
+    0,
+    24
+  ],
+  "twentyFourHourFormat": false,
+  "filterFunction": "",
+  "addTaskToEnd": false,
+  "extendBlocks": false,
+  "hideTimes": false,
+  "borders": true,
+  "viewMode": "week",
+  "scheduledSubtasks": true
+}

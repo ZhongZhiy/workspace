@@ -1,0 +1,117 @@
+{
+  "dualConfigs": true,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "advanced-canvas": {
+        "startupType": "disabled"
+      },
+      "obsidian-auto-link-title": {
+        "startupType": "short"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "obsidian-copy-block-link": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "disabled"
+      },
+      "new-tab-default-page": {
+        "startupType": "disabled"
+      },
+      "epub-importer": {
+        "startupType": "disabled"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "disabled"
+      },
+      "folder-notes": {
+        "startupType": "long"
+      },
+      "obsidian-git": {
+        "startupType": "disabled"
+      },
+      "highlightr-plugin": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "media-extended": {
+        "startupType": "disabled"
+      },
+      "obsidian-mindmap-nextgen": {
+        "startupType": "disabled"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "note-refactor-obsidian": {
+        "startupType": "long"
+      },
+      "pdf-plus": {
+        "startupType": "long"
+      },
+      "recent-files-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-spaced-repetition-recall": {
+        "startupType": "disabled"
+      },
+      "obsidian-style-settings": {
+        "startupType": "disabled"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "disabled"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "time-ruler": {
+        "startupType": "disabled"
+      },
+      "remotely-save": {
+        "startupType": "disabled"
+      },
+      "note-canvas": {
+        "startupType": "disabled"
+      },
+      "quickadd": {
+        "startupType": "disabled"
+      },
+      "obsidian-plugin-toc": {
+        "startupType": "short"
+      },
+      "obsidian-advanced-slides": {
+        "startupType": "disabled"
+      },
+      "slides-extended": {
+        "startupType": "disabled"
+      },
+      "obsidian-custom-frames": {
+        "startupType": "disabled"
+      },
+      "obsidian-to-anki-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-vimrc-support": {
+        "startupType": "disabled"
+      },
+      "obsidian-day-planner": {
+        "startupType": "instant"
+      }
+    },
+    "loadOrder": []
+  }
+}

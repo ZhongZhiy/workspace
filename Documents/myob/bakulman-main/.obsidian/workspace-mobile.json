@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "c6036ceb0b0282c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9c5753c38626082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7eff922a572f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-06-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1abfda4937524eb9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb6513e6cb3fd65a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "f10083a7674a2f68",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "7f53d31fe927a3b5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "e692d17eb0d2d48f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "344f282daef4226c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "70649032095e90b0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "067d3fc7c19b6b38",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "410039b6a38bc348",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "ca7eff922a572f61",
+  "lastOpenFiles": [
+    "计科/高数/高数复习/第一类曲线积分.md",
+    "daily/2025-06-11.md",
+    "daily/2025-06-09.md",
+    "未命名.md",
+    "文件树.md",
+    "vimium快捷键.md",
+    "Neovim 快捷键总结.md",
+    "thinking/克莱因壶.md",
+    "nvim配置过程/Lazy快捷键.md",
+    "daily/2025-06-06.md",
+    "vscode to neovim.md",
+    "daily/2025-06-05.md",
+    "daily/2025-06-04.md",
+    "计科/线代/考前.md",
+    "最近的一些事情.md",
+    "temp/仓鼠.md",
+    "冥想.md",
+    "temp/看番.md",
+    "计科/C++/进制.md",
+    "计科/线代/负惯性.md",
+    "计科/C++/建树.md",
+    "temp/linux.md",
+    "计科/C++/图论.md",
+    "计科/C++/差分.md",
+    "temp/键盘操作.md",
+    "temp/temp.md",
+    "ob_revlog.csv",
+    "tracked_files.json",
+    "计科/高数/高数复习/积分计算关系.canvas",
+    "计科/离散数学/离散/离散-1747746618370.webp",
+    "tracked_files.json.Default.bak",
+    "计科/离散数学/离散/离散-1747746051449.webp",
+    "计科/离散数学/离散/离散-1747699325136.webp",
+    "计科/离散数学/离散/离散-1747630698920.webp",
+    "计科/离散数学/离散/离散-1747699234869.webp",
+    "计科/离散数学/离散/离散-1747745521044.webp",
+    "计科/离散数学/离散/离散-1747630467663.webp",
+    "计科/离散数学/离散/离散-1747630600159.webp",
+    "Windows apps",
+    "计科/离散数学/离散/离散-1747630462627.webp",
+    "计科/离散数学/离散/离散-1747574035208.webp",
+    "reading/epub/邓小平时代 (傅高义 [傅高义]) (Z-Library) (1).epub",
+    "reading/epub/邓小平时代 (傅高义 [傅高义]) (Z-Library) (1)/images",
+    "计科/高数/高数复习",
+    "计科/离散数学/离散",
+    "ob笔记学习/记录/图片",
+    "reading/epub/邓小平时代 (傅高义 [傅高义]) (Z-Library) (1)"
+  ]
+}

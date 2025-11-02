@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "openNewNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 1,
+  "customFolder": "",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "---\n\ntags:\n  - \"#review\"\n\n\nparent: \"{{link}}\"\n\n\nsr-due: {{date:YYYY-MM-DD}}\n\nsr-interval: 1\n\nsr-ease: 250\n \ncreated: {{date:YYYY-MM-DD}}\n---\n# {{title}}\n\n{{new_note_content}}\n",
+  "normalizeHeaderLevels": false
+}

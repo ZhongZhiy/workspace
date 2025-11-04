@@ -1,8 +1,164 @@
 {
   "recentFiles": [
     {
+      "basename": "自我保护机制",
+      "path": "thinking/自我保护机制.md"
+    },
+    {
+      "basename": "2025-09-28",
+      "path": "daily/2025-09-28.md"
+    },
+    {
+      "basename": "the art of command line",
+      "path": "the art of command line.md"
+    },
+    {
+      "basename": "singbox",
+      "path": "singbox.md"
+    },
+    {
+      "basename": "show and set",
+      "path": "show and set.md"
+    },
+    {
+      "basename": "题",
+      "path": "题.md"
+    },
+    {
+      "basename": "bar",
+      "path": "bar.md"
+    },
+    {
+      "basename": "论文参考",
+      "path": "论文参考.md"
+    },
+    {
+      "basename": "vim sikillsss",
+      "path": "vim sikillsss.md"
+    },
+    {
+      "basename": "typst notes",
+      "path": "typst notes.md"
+    },
+    {
+      "basename": "typst",
+      "path": "typst.md"
+    },
+    {
+      "basename": "order-only",
+      "path": "计科/tools/make/order-only.md"
+    },
+    {
+      "basename": "bound found",
+      "path": "question/bound found.md"
+    },
+    {
+      "basename": "算法错误",
+      "path": "算法错误.md"
+    },
+    {
+      "basename": "重载运算符",
+      "path": "question/重载运算符.md"
+    },
+    {
+      "basename": "设置系统挂起与休眠模式",
+      "path": "计科/unix 大学教程/设置系统挂起与休眠模式.md"
+    },
+    {
+      "basename": "管理电脑配置",
+      "path": "计科/unix 大学教程/管理电脑配置.md"
+    },
+    {
+      "basename": "crontab自动化说明",
+      "path": "计科/unix 大学教程/crontab自动化说明.md"
+    },
+    {
+      "basename": "Maximum Mode（贪心，模拟）",
+      "path": "question/Maximum Mode（贪心，模拟）.md"
+    },
+    {
+      "basename": "Sliding Window Cost",
+      "path": "question/Sliding Window Cost.md"
+    },
+    {
+      "basename": "bus（动态规划）",
+      "path": "question/bus（动态规划）.md"
+    },
+    {
+      "basename": "线段树模板",
+      "path": "question/线段树模板.md"
+    },
+    {
+      "basename": "两数之和问题",
+      "path": "question/两数之和问题.md"
+    },
+    {
+      "basename": "unordered_map时间复杂度及查找",
+      "path": "question/unordered_map时间复杂度及查找.md"
+    },
+    {
+      "basename": "常见贪心策略与证明",
+      "path": "question/常见贪心策略与证明.md"
+    },
+    {
+      "basename": "并查集代码",
+      "path": "question/并查集代码.md"
+    },
+    {
+      "basename": "扑克洗牌（最长连续子序列dp）",
+      "path": "question/扑克洗牌（最长连续子序列dp）.md"
+    },
+    {
+      "basename": "猫咪排队买早餐（滑动窗口）",
+      "path": "question/猫咪排队买早餐（滑动窗口）.md"
+    },
+    {
+      "basename": "狄尔沃斯定理",
+      "path": "question/狄尔沃斯定理.md"
+    },
+    {
+      "basename": "沉迷手机",
+      "path": "thinking/沉迷手机.md"
+    },
+    {
+      "basename": "感谢信",
+      "path": "感谢信.md"
+    },
+    {
+      "basename": "四叠半神话大系",
+      "path": "reading/四叠半神话大系.md"
+    },
+    {
+      "basename": "reading",
+      "path": "reading/reading.md"
+    },
+    {
+      "basename": "无知转生",
+      "path": "recording/无知转生.md"
+    },
+    {
       "basename": "EVA终",
-      "path": "EVA终.md"
+      "path": "recording/EVA终.md"
+    },
+    {
+      "basename": "末日三问",
+      "path": "recording/末日三问.md"
+    },
+    {
+      "basename": "recording",
+      "path": "recording/recording.md"
+    },
+    {
+      "basename": "2025-11-04",
+      "path": "daily/2025-11-04.md"
+    },
+    {
+      "basename": "算法题提示词",
+      "path": "算法题提示词.md"
+    },
+    {
+      "basename": "daily",
+      "path": "daily/daily.md"
     },
     {
       "basename": "2025-11-02-1762097706735",
@@ -21,20 +177,12 @@
       "path": "daily/2025-11-02.md"
     },
     {
-      "basename": "论文参考",
-      "path": "论文参考.md"
-    },
-    {
       "basename": "foo",
       "path": "foo.md"
     },
     {
       "basename": "未命名",
       "path": "未命名.md"
-    },
-    {
-      "basename": "算法题提示词",
-      "path": "算法题提示词.md"
     },
     {
       "basename": "2025-06-26",
@@ -51,150 +199,6 @@
     {
       "basename": "2025-07-08",
       "path": "daily/2025-07-08.md"
-    },
-    {
-      "basename": "2025-06-14",
-      "path": "daily/2025-06-14.md"
-    },
-    {
-      "basename": "2025-06-07",
-      "path": "daily/2025-06-07.md"
-    },
-    {
-      "basename": "每样东西都需要两次支付",
-      "path": "thinking/每样东西都需要两次支付.md"
-    },
-    {
-      "basename": "白月光",
-      "path": "thinking/白月光.md"
-    },
-    {
-      "basename": "真实的心声",
-      "path": "thinking/真实的心声.md"
-    },
-    {
-      "basename": "沉迷手机",
-      "path": "沉迷手机.md"
-    },
-    {
-      "basename": "为什么学习技术原理",
-      "path": "thinking/为什么学习技术原理.md"
-    },
-    {
-      "basename": "recording",
-      "path": "recording/recording.md"
-    },
-    {
-      "basename": "reading",
-      "path": "reading/reading.md"
-    },
-    {
-      "basename": "git checkout",
-      "path": "git/git checkout.md"
-    },
-    {
-      "basename": "未命名 3",
-      "path": "未命名 3.md"
-    },
-    {
-      "basename": "vim sikillsss",
-      "path": "vim sikillsss.md"
-    },
-    {
-      "basename": "git origin",
-      "path": "git/git origin.md"
-    },
-    {
-      "basename": "make",
-      "path": "计科/tools/make/make.md"
-    },
-    {
-      "basename": "Makefile 高级语法",
-      "path": "计科/tools/make/Makefile 高级语法.md"
-    },
-    {
-      "basename": "unix 大学教程",
-      "path": "计科/unix 大学教程/unix 大学教程.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "towrite/未命名.md"
-    },
-    {
-      "basename": "修复pacman",
-      "path": "修复pacman.md"
-    },
-    {
-      "basename": "2025-5-1五一",
-      "path": "归档/阶段性计划/2025-5-1五一.md"
-    },
-    {
-      "basename": "Neovim 快捷键总结",
-      "path": "temp/Neovim 快捷键总结.md"
-    },
-    {
-      "basename": "模板列表",
-      "path": "recording/模板列表.md"
-    },
-    {
-      "basename": "To read",
-      "path": "temp/To read.md"
-    },
-    {
-      "basename": "2025-08-12",
-      "path": "daily/2025-08-12.md"
-    },
-    {
-      "basename": "使用git同步电脑配置",
-      "path": "使用git同步电脑配置.md"
-    },
-    {
-      "basename": "fc-list",
-      "path": "fc-list.md"
-    },
-    {
-      "basename": "linux指定服务器",
-      "path": "linux指定服务器.md"
-    },
-    {
-      "basename": "算法错误",
-      "path": "算法错误.md"
-    },
-    {
-      "basename": "linux软件安装日志",
-      "path": "recording/linux软件安装日志.md"
-    },
-    {
-      "basename": "解题prompt",
-      "path": "解题prompt.md"
-    },
-    {
-      "basename": "Sliding Window Cost",
-      "path": "Sliding Window Cost.md"
-    },
-    {
-      "basename": "两数之和问题",
-      "path": "两数之和问题.md"
-    },
-    {
-      "basename": "常见贪心策略与证明",
-      "path": "常见贪心策略与证明.md"
-    },
-    {
-      "basename": "末日三问",
-      "path": "recording/末日三问.md"
-    },
-    {
-      "basename": "unordered_map时间复杂度及查找",
-      "path": "unordered_map时间复杂度及查找.md"
-    },
-    {
-      "basename": "狄尔沃斯定理",
-      "path": "狄尔沃斯定理.md"
-    },
-    {
-      "basename": "扑克洗牌（最长连续子序列dp）",
-      "path": "扑克洗牌（最长连续子序列dp）.md"
     }
   ],
   "omittedPaths": [],

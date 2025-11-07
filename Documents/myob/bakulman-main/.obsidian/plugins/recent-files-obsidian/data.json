@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "算法题提示词",
+      "path": "算法题提示词.md"
+    },
+    {
+      "basename": "2025-11-07",
+      "path": "daily/2025-11-07.md"
+    },
+    {
+      "basename": "宏定义用法",
+      "path": "计科/C++/宏定义用法.md"
+    },
+    {
+      "basename": "写题注意",
+      "path": "计科/C++/写题注意.md"
+    },
+    {
+      "basename": "二分多重",
+      "path": "计科/C++/二分多重.md"
+    },
+    {
+      "basename": "Permutations（构造）",
+      "path": "计科/C++/Permutations（构造）.md"
+    },
+    {
+      "basename": "bitset",
+      "path": "计科/C++/bitset.md"
+    },
+    {
+      "basename": "lambda表达式简介（匿名函数）",
+      "path": "计科/C++/lambda表达式简介（匿名函数）.md"
+    },
+    {
+      "basename": "拓展迪杰斯特拉范式",
+      "path": "归档/废案/拓展迪杰斯特拉范式.md"
+    },
+    {
+      "basename": "模板列表",
+      "path": "recording/模板列表.md"
+    },
+    {
       "basename": "自我保护机制",
       "path": "thinking/自我保护机制.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "關於我的真相",
+      "path": "關於我的真相.md"
     },
     {
       "basename": "2025-09-28",
@@ -151,54 +199,6 @@
     {
       "basename": "2025-11-04",
       "path": "daily/2025-11-04.md"
-    },
-    {
-      "basename": "算法题提示词",
-      "path": "算法题提示词.md"
-    },
-    {
-      "basename": "daily",
-      "path": "daily/daily.md"
-    },
-    {
-      "basename": "2025-11-02-1762097706735",
-      "path": "daily/2025-11-02-1762097706735.webp"
-    },
-    {
-      "basename": "2025-11-02-1762097713041",
-      "path": "daily/2025-11-02-1762097713041.webp"
-    },
-    {
-      "basename": "2025-11-02-1762097732055",
-      "path": "daily/2025-11-02-1762097732055.webp"
-    },
-    {
-      "basename": "2025-11-02",
-      "path": "daily/2025-11-02.md"
-    },
-    {
-      "basename": "foo",
-      "path": "foo.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
-      "basename": "2025-06-26",
-      "path": "daily/2025-06-26.md"
-    },
-    {
-      "basename": "2025-06-27",
-      "path": "daily/2025-06-27.md"
-    },
-    {
-      "basename": "2025-07-06",
-      "path": "daily/2025-07-06.md"
-    },
-    {
-      "basename": "2025-07-08",
-      "path": "daily/2025-07-08.md"
     }
   ],
   "omittedPaths": [],

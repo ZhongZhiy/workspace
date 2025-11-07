@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thinking/自我保护机制.md",
+                "file": "算法题提示词.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "自我保护机制"
+              "title": "算法题提示词"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "迷茫",
+                "query": "最短路",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,6 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
       "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
@@ -243,6 +240,20 @@
   },
   "active": "0ac078c94fade8cb",
   "lastOpenFiles": [
+    "daily/2025-11-07.md",
+    "计科/C++/宏定义用法.md",
+    "计科/C++/写题注意.md",
+    "计科/C++/二分多重.md",
+    "计科/C++/Permutations（构造）.md",
+    "计科/C++/bitset.md",
+    "计科/C++/lambda表达式简介（匿名函数）.md",
+    "归档/废案/拓展迪杰斯特拉范式.md",
+    "归档/废案",
+    "recording/模板列表.md",
+    "算法题提示词.md",
+    "thinking/自我保护机制.md",
+    "未命名.canvas",
+    "關於我的真相.md",
     "daily/2025-09-28.md",
     "the art of command line.md",
     "singbox.md",
@@ -250,7 +261,6 @@
     "题.md",
     "bar.md",
     "论文参考.md",
-    "未命名 1.md",
     "vim sikillsss.md",
     "typst notes.md",
     "typst.md",
@@ -258,17 +268,6 @@
     "question/bound found.md",
     "算法错误.md",
     "生成测试数据集.md",
-    "question/重载运算符.md",
-    "计科/unix 大学教程/设置系统挂起与休眠模式.md",
-    "计科/unix 大学教程/管理电脑配置.md",
-    "计科/unix 大学教程/crontab自动化说明.md",
-    "question/Maximum Mode（贪心，模拟）.md",
-    "question/Sliding Window Cost.md",
-    "README.md",
-    "question/bus（动态规划）.md",
-    "build cs.md",
-    "question/线段树模板.md",
-    "class1.md",
     "question",
     "daily/2025-11-02-1762097706735.webp",
     "daily/2025-11-02-1762097713041.webp",
@@ -286,7 +285,6 @@
     "计科/unix 大学教程/unix 大学教程-1752330627899.webp",
     "git/git_the_missing_semester-1752564244871.webp",
     "ob_sync.sh~",
-    "ob_sync.log",
     "计科/unix 大学教程/unix 大学教程-1752331834273.webp",
     "计科/unix 大学教程/unix 大学教程-1752331811887.webp",
     "计科/高数/高数复习/积分计算关系.canvas"

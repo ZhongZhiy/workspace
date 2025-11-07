@@ -16,35 +16,113 @@ using namespace std;
 #define runningtime cout << "running time: " << chrono::duration_cast<chrono::milliseconds>(end - start).count()<<" ms\n";
 typedef long long ll;
 typedef unsigned long long ull;
-const int N = 1e7;
-int a[N], b[N], c[N];
-int ca, cb, cc;
 
+struct TreeNode{
+	int val;
+	TreeNode* left;
+	TreeNode* right;
+	TreeNode(int val):val(val), left(nullptr), right(nullptr){}
+};
+
+int n;
+string s;
+
+TreeNode* build(int &i){
+	if(i >= n) return nullptr;
+	if(s[i] == '#') {i++;return nullptr;}
+	TreeNode *node = new TreeNode(s[i++]);
+	node->left = build(i);
+	node->right = build(i);
+	return node;
+}
+
+// 
+//
+const int N = 100000;
+char pre[N], ino[N], pos[N];
+int pr, io, po, high, lev;
+void preOrder(TreeNode *root, int *size){
+	if(root == NULL) return;
+
+	pre[++pr] = root->val;
+	preOrder(root->left, size);
+	preOrder(root->right, size);
+}
+
+void inOrder(TreeNode* root, int *size){
+	if(root == NULL) return;
+
+	inOrder(root->left, size);
+	ino[++io] = root->val;
+	inOrder(root->right, size);
+
+}
+
+void postOrder(TreeNode* root, int *size){
+	if(root == NULL) return ;
+
+	postOrder(root->left, size);
+	postOrder(root->right, size);
+	pos[++po] = root->val;
+}
+
+void levelOrder(TreeNode* root){
+	queue<TreeNode*> q;
+	queue<TreeNode*> p;
+
+	q.push(root);
+	p.push(root);
+
+	while(!q.empty()){
+		auto cur = q.front(); q.pop();
+		if(!p.empty() && cur == p.front()){
+			high++;
+			while(!p.empty()){
+				cout << (char)p.front()->val;
+				p.pop();
+			}
+			cout << '\n';
+		}
+		if(cur->left) q.push(cur->left);
+		if(cur->right) q.push(cur->right);
+
+		if(!cur->left && !cur->right) lev++;
+
+		if(cur->left) p.push(cur->left);
+		if(cur->right) p.push(cur->right);
+	}
+
+	while(!p.empty()){
+		cout << (char)p.front()->val;
+	}
+
+}
 
 signed main() {
 //	freopen("an", "r", stdin);
-	caillo;
+	
+	cin >> n; cin >> s;
+	int init = 0;
+	TreeNode* root = build(init);
 
-	int t;
-	while(cin >> t && t != -1){
-		a[++ca] = t;
-	}
-	while(cin >> t && t != -1){
-		b[++cb] = t;
-	}
-	if(!ca && !cb) cout << "NULL";
-	else {
-		int l = 1, r = 1;
-		while(l <= ca || r <= cb){
-			if(l <= ca && a[l] <= b[r]) c[++cc] = a[l++];
-			else c[++cc] = b[r++];
-		}
+	preOrder(root, &n);
+	inOrder(root, &n);
+	postOrder(root, &n);
+	
+	cout << "preorder traversal:";
+	fi(pr){ cout << pre[i];} cout << '\n';
+	cout << "inorder traversal:";
+	fi(io){cout << ino[i];} cout << endl;
+	cout << "postorder traversal:";
+	fi(po){cout << pos[i];}cout << endl;
 
-		fi(cc){
-			cout << c[i];
-			if(i!= cc) cout << ' ';
-		}
-	}
+	cout << "level traversal:\n";
+
+	levelOrder(root);
+	
+
+	cout << lev << endl;
+	cout << high;
 
 	PLEASE_AC;
 }

@@ -1,3 +1,0 @@
-void get_(){
-	return;
-}

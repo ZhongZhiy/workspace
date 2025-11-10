@@ -3,7 +3,6 @@
 #show: codly-init.with()
 
 #codly(languages: codly-languages)
-
 ```rust
 pub fn main() {
     println!("Hello, world!");

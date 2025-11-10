@@ -2,24 +2,16 @@
 #import "@preview/codly-languages:0.1.1": *
 #show: codly-init.with()
 
-// #set page(
-//   width: 12cm, 
-//   height: 12cm,
-//   margin:(
-//     top: 2cm,
-//     bottom: 2cm,
-//     x: 1.5cm,
-//     y: 1.5cm
-//     ),
-// )
-#set page(header:()
-  if page() > 1 [
-    _Lisa Strassner's Thesis_ \
-    #h(lfr) \
-    National Academy of Sciences
-  ]
-))
-
+#set page(
+  width: 12cm, 
+  height: 12cm,
+  margin:(
+    top: 2cm,
+    bottom: 2cm,
+    x: 1.5cm,
+    y: 1.5cm
+    ),
+)
 = 参考
 
 == document
@@ -46,3 +38,14 @@
   caption: "table"
 )
 ```
+
+= 函数
+#let f(x, y) = [两个数值#(x), 和#(y)在函数中]
+
+#f([hello, world], "0")
+
+== 匿名函数, 也就是函数闭包
+#let f = (x, y) => [#(x) and #(y)]
+#f([a], [b])
+
+

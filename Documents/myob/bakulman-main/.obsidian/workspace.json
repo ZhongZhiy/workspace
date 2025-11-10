@@ -43,17 +43,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法题提示词.md",
+                "file": "daily/2025-11-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "算法题提示词"
+              "title": "2025-11-09"
+            }
+          },
+          {
+            "id": "d54091e4381aafbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wsa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "wsa"
+            }
+          },
+          {
+            "id": "da40682df18e2768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我想专注什么.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "我想专注什么"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,7 +243,8 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -238,41 +269,41 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ac078c94fade8cb",
+  "active": "da40682df18e2768",
   "lastOpenFiles": [
+    "daily/2025-11-10.md",
+    "我想专注什么.md",
+    "一些有趣的东西.md",
+    "wsa.md",
+    "daily/2025-11-09.md",
+    "算法错误.md",
+    "算法题提示词.md",
+    "题.md",
+    "vim sikillsss.md",
+    "foo.md",
+    "未命名.md",
+    "论文参考.md",
+    "感谢信.md",
+    "關於我的真相.md",
+    "temp/temp.md",
+    "reading/reading.md",
+    "Excalidraw/Drawing 2025-05-09 17.14.22.excalidraw.md",
+    "chance/日记模板.md",
+    "计科/数字电路/逻辑代数基本公式.md",
+    "计科/英语笔记/四级写作.md",
+    "计科/CSdiy/启用管理员权限.md",
+    "计科/英语笔记/四级翻译.md",
+    "计科/英语笔记/背诵片段.md",
+    "计科/英语笔记/英语六级.md",
     "daily/2025-11-07.md",
     "计科/C++/宏定义用法.md",
-    "计科/C++/写题注意.md",
-    "计科/C++/二分多重.md",
-    "计科/C++/Permutations（构造）.md",
-    "计科/C++/bitset.md",
-    "计科/C++/lambda表达式简介（匿名函数）.md",
-    "归档/废案/拓展迪杰斯特拉范式.md",
     "归档/废案",
-    "recording/模板列表.md",
-    "算法题提示词.md",
-    "thinking/自我保护机制.md",
     "未命名.canvas",
-    "關於我的真相.md",
-    "daily/2025-09-28.md",
-    "the art of command line.md",
-    "singbox.md",
-    "show and set.md",
-    "题.md",
-    "bar.md",
-    "论文参考.md",
-    "vim sikillsss.md",
-    "typst notes.md",
-    "typst.md",
-    "计科/tools/make/order-only.md",
-    "question/bound found.md",
-    "算法错误.md",
-    "生成测试数据集.md",
-    "question",
+    "计科/question",
     "daily/2025-11-02-1762097706735.webp",
     "daily/2025-11-02-1762097713041.webp",
     "daily/2025-11-02-1762097732055.webp",
-    "git",
+    "计科/tools/git",
     "计科/tools/make",
     "计科/tools",
     "计科/概率论",
@@ -283,7 +314,7 @@
     "归档",
     "计科/unix 大学教程/unix 大学教程-1752332875998.webp",
     "计科/unix 大学教程/unix 大学教程-1752330627899.webp",
-    "git/git_the_missing_semester-1752564244871.webp",
+    "计科/tools/git/git_the_missing_semester-1752564244871.webp",
     "ob_sync.sh~",
     "计科/unix 大学教程/unix 大学教程-1752331834273.webp",
     "计科/unix 大学教程/unix 大学教程-1752331811887.webp",

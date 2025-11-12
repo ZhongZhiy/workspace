@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我想专注什么.md",
+                "file": "daily/2025-11-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "我想专注什么"
+              "title": "2025-11-11"
             }
           }
         ],
@@ -106,7 +106,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -229,12 +229,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "5d5ecab1662e0581",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "34ffa7ddc31ac327",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -253,38 +263,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "da40682df18e2768",
   "lastOpenFiles": [
-    "daily/2025-11-10.md",
+    "算法题提示词.md",
+    "daily/2025-11-11.md",
+    "關於我的真相.md",
+    "show and set.md",
     "我想专注什么.md",
     "一些有趣的东西.md",
+    "daily/2025-11-10.md",
     "wsa.md",
     "daily/2025-11-09.md",
     "算法错误.md",
-    "算法题提示词.md",
     "题.md",
     "vim sikillsss.md",
     "foo.md",
     "未命名.md",
     "论文参考.md",
     "感谢信.md",
-    "關於我的真相.md",
     "temp/temp.md",
     "reading/reading.md",
     "Excalidraw/Drawing 2025-05-09 17.14.22.excalidraw.md",
@@ -295,8 +304,6 @@
     "计科/英语笔记/四级翻译.md",
     "计科/英语笔记/背诵片段.md",
     "计科/英语笔记/英语六级.md",
-    "daily/2025-11-07.md",
-    "计科/C++/宏定义用法.md",
     "归档/废案",
     "未命名.canvas",
     "计科/question",

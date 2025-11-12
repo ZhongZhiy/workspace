@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-11",
+      "path": "daily/2025-11-11.md"
+    },
+    {
+      "basename": "算法题提示词",
+      "path": "算法题提示词.md"
+    },
+    {
+      "basename": "關於我的真相",
+      "path": "關於我的真相.md"
+    },
+    {
+      "basename": "show and set",
+      "path": "show and set.md"
+    },
+    {
       "basename": "我想专注什么",
       "path": "我想专注什么.md"
     },
     {
-      "basename": "2025-11-10",
-      "path": "daily/2025-11-10.md"
-    },
-    {
       "basename": "一些有趣的东西",
       "path": "一些有趣的东西.md"
+    },
+    {
+      "basename": "2025-11-10",
+      "path": "daily/2025-11-10.md"
     },
     {
       "basename": "wsa",
@@ -23,10 +39,6 @@
     {
       "basename": "算法错误",
       "path": "算法错误.md"
-    },
-    {
-      "basename": "算法题提示词",
-      "path": "算法题提示词.md"
     },
     {
       "basename": "题",
@@ -51,10 +63,6 @@
     {
       "basename": "感谢信",
       "path": "感谢信.md"
-    },
-    {
-      "basename": "關於我的真相",
-      "path": "關於我的真相.md"
     },
     {
       "basename": "temp",
@@ -149,10 +157,6 @@
       "path": "singbox.md"
     },
     {
-      "basename": "show and set",
-      "path": "show and set.md"
-    },
-    {
       "basename": "bar",
       "path": "bar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sliding Window Cost",
       "path": "计科/question/Sliding Window Cost.md"
-    },
-    {
-      "basename": "bus（动态规划）",
-      "path": "计科/question/bus（动态规划）.md"
     }
   ],
   "omittedPaths": [],

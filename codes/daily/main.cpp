@@ -19,13 +19,13 @@ using namespace std;
 #define PLEASE_AC return 0
 typedef long long ll;
 typedef unsigned long long ull;
-#define int long long 
-
+// #define int long long
 
 
 signed main() {
 //	freopen("an", "r", stdin);
 	caillo;
+
 
 
 	PLEASE_AC;

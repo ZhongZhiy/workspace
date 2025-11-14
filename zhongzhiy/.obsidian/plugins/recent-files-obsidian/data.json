@@ -5,60 +5,84 @@
       "path": "我想专注什么.md"
     },
     {
-      "basename": "2025-11-11",
-      "path": "daily/2025-11-11.md"
+      "basename": "题",
+      "path": "题.md"
     },
     {
-      "basename": "算法题提示词",
-      "path": "算法题提示词.md"
-    },
-    {
-      "basename": "關於我的真相",
-      "path": "關於我的真相.md"
-    },
-    {
-      "basename": "show and set",
-      "path": "show and set.md"
+      "basename": "论文参考",
+      "path": "论文参考.md"
     },
     {
       "basename": "一些有趣的东西",
       "path": "一些有趣的东西.md"
     },
     {
-      "basename": "2025-11-10",
-      "path": "daily/2025-11-10.md"
-    },
-    {
-      "basename": "wsa",
-      "path": "wsa.md"
-    },
-    {
-      "basename": "2025-11-09",
-      "path": "daily/2025-11-09.md"
-    },
-    {
-      "basename": "算法错误",
-      "path": "算法错误.md"
-    },
-    {
-      "basename": "题",
-      "path": "题.md"
-    },
-    {
-      "basename": "vim sikillsss",
-      "path": "vim sikillsss.md"
+      "basename": "singbox",
+      "path": "singbox.md"
     },
     {
       "basename": "foo",
       "path": "foo.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "bar",
+      "path": "bar.md"
     },
     {
-      "basename": "论文参考",
-      "path": "论文参考.md"
+      "basename": "wsa",
+      "path": "wsa.md"
+    },
+    {
+      "basename": "show and set",
+      "path": "show and set.md"
+    },
+    {
+      "basename": "typst",
+      "path": "typst.md"
+    },
+    {
+      "basename": "typst notes",
+      "path": "typst notes.md"
+    },
+    {
+      "basename": "2025-11-14",
+      "path": "daily/2025-11-14.md"
+    },
+    {
+      "basename": "anki制卡",
+      "path": "anki制卡.md"
+    },
+    {
+      "basename": "算法题提示词",
+      "path": "算法题提示词.md"
+    },
+    {
+      "basename": "算法错误",
+      "path": "算法错误.md"
+    },
+    {
+      "basename": "2025-11-10",
+      "path": "daily/2025-11-10.md"
+    },
+    {
+      "basename": "2025-11-11",
+      "path": "daily/2025-11-11.md"
+    },
+    {
+      "basename": "reading",
+      "path": "reading/reading.md"
+    },
+    {
+      "basename": "關於我的真相",
+      "path": "關於我的真相.md"
+    },
+    {
+      "basename": "2025-11-09",
+      "path": "daily/2025-11-09.md"
+    },
+    {
+      "basename": "vim sikillsss",
+      "path": "vim sikillsss.md"
     },
     {
       "basename": "感谢信",
@@ -67,10 +91,6 @@
     {
       "basename": "temp",
       "path": "temp/temp.md"
-    },
-    {
-      "basename": "reading",
-      "path": "reading/reading.md"
     },
     {
       "basename": "Drawing 2025-05-09 17.14.22.excalidraw",
@@ -141,32 +161,12 @@
       "path": "thinking/自我保护机制.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
       "basename": "2025-09-28",
       "path": "daily/2025-09-28.md"
     },
     {
       "basename": "the art of command line",
       "path": "the art of command line.md"
-    },
-    {
-      "basename": "singbox",
-      "path": "singbox.md"
-    },
-    {
-      "basename": "bar",
-      "path": "bar.md"
-    },
-    {
-      "basename": "typst notes",
-      "path": "typst notes.md"
-    },
-    {
-      "basename": "typst",
-      "path": "typst.md"
     },
     {
       "basename": "order-only",
@@ -187,18 +187,6 @@
     {
       "basename": "管理电脑配置",
       "path": "计科/unix 大学教程/管理电脑配置.md"
-    },
-    {
-      "basename": "crontab自动化说明",
-      "path": "计科/unix 大学教程/crontab自动化说明.md"
-    },
-    {
-      "basename": "Maximum Mode（贪心，模拟）",
-      "path": "计科/question/Maximum Mode（贪心，模拟）.md"
-    },
-    {
-      "basename": "Sliding Window Cost",
-      "path": "计科/question/Sliding Window Cost.md"
     }
   ],
   "omittedPaths": [],

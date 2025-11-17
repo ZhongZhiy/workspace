@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题.md",
+                "file": "我想专注什么.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "题"
+              "title": "我想专注什么"
             }
           }
         ],
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 601.5
+    "width": 601.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +228,15 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "4c135e4a48b4aed3",
   "lastOpenFiles": [
+    "算法错误.md",
     "题.md",
     "论文参考.md",
     "一些有趣的东西.md",
@@ -246,7 +251,6 @@
     "daily/2025-11-14.md",
     "anki制卡.md",
     "算法题提示词.md",
-    "算法错误.md",
     "我想专注什么.md",
     "未命名.md",
     "未命名.canvas",

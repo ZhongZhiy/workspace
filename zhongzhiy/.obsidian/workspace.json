@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d35d8518730f6b5d",
+        "id": "1fed113ed817806f",
         "type": "tabs",
         "children": [
           {
-            "id": "38335b00e30870f1",
+            "id": "5537236f23c034e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组合逻辑.md",
+                "file": "上海站.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "组合逻辑"
+              "title": "上海站"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "最短路",
+                "query": "车",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d83f0cf9d0bb547",
@@ -188,8 +187,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -213,41 +212,40 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "38335b00e30870f1",
+  "active": "5537236f23c034e0",
   "lastOpenFiles": [
-    "组合逻辑.md",
-    "foo.md",
+    "时序电路.md",
     "我想专注什么.md",
+    "gcc常用命令.md",
+    "上海站.md",
+    "组合逻辑.md",
+    "where高级用法.md",
+    "计科/unix 大学教程/vim_tab.md",
+    "题.md",
+    "计科/python环境.md",
+    "tps.md",
+    "Untitled 1.md",
+    "tp.md",
+    "daily/2025-11-20.md",
+    "typst notes.md",
+    "typst.md",
+    "vim sikillsss.md",
+    "论文参考.md",
+    "算法题提示词.md",
+    "foo.md",
     "Untitled.md",
     "算法错误.md",
-    "题.md",
-    "论文参考.md",
     "一些有趣的东西.md",
     "singbox.md",
     "bar.md",
     "wsa.md",
     "ToDo——today.md",
-    "show and set.md",
-    "typst.md",
-    "typst notes.md",
-    "daily/2025-11-14.md",
-    "anki制卡.md",
-    "算法题提示词.md",
-    "未命名.md",
     "未命名.canvas",
-    "anki prompt.md",
-    "daily/2025-11-10.md",
-    "daily/2025-11-11.md",
-    "reading/reading.md",
-    "jave.md",
-    "计科/unix 大学教程/wsl修改默认启动用户.md",
-    "daily/2025-11-09.md",
     "归档/废案",
     "计科/question",
     "daily/2025-11-02-1762097706735.webp",

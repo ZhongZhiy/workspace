@@ -61,7 +61,7 @@
         "startupType": "long"
       },
       "pdf-plus": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "recent-files-obsidian": {
         "startupType": "instant"
@@ -103,12 +103,18 @@
         "startupType": "disabled"
       },
       "obsidian-to-anki-plugin": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-vimrc-support": {
         "startupType": "disabled"
       },
       "obsidian-day-planner": {
+        "startupType": "disabled"
+      },
+      "typst-for-obsidian": {
+        "startupType": "instant"
+      },
+      "terminal": {
         "startupType": "instant"
       }
     },

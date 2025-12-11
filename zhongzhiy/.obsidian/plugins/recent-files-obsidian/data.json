@@ -1,168 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "上海站",
-      "path": "上海站.md"
+      "basename": "无知转生",
+      "path": "reading/无知转生.md"
     },
     {
-      "basename": "时序电路",
-      "path": "时序电路.md"
-    },
-    {
-      "basename": "我想专注什么",
-      "path": "我想专注什么.md"
-    },
-    {
-      "basename": "gcc常用命令",
-      "path": "gcc常用命令.md"
-    },
-    {
-      "basename": "组合逻辑",
-      "path": "组合逻辑.md"
-    },
-    {
-      "basename": "where高级用法",
-      "path": "where高级用法.md"
-    },
-    {
-      "basename": "vim_tab",
-      "path": "计科/unix 大学教程/vim_tab.md"
-    },
-    {
-      "basename": "题",
-      "path": "题.md"
-    },
-    {
-      "basename": "python环境",
-      "path": "计科/python环境.md"
-    },
-    {
-      "basename": "tps",
-      "path": "tps.md"
-    },
-    {
-      "basename": "tp",
-      "path": "tp.md"
-    },
-    {
-      "basename": "2025-11-20",
-      "path": "daily/2025-11-20.md"
-    },
-    {
-      "basename": "typst notes",
-      "path": "typst notes.md"
-    },
-    {
-      "basename": "typst",
-      "path": "typst.md"
-    },
-    {
-      "basename": "vim sikillsss",
-      "path": "vim sikillsss.md"
-    },
-    {
-      "basename": "论文参考",
-      "path": "论文参考.md"
-    },
-    {
-      "basename": "算法题提示词",
-      "path": "算法题提示词.md"
-    },
-    {
-      "basename": "foo",
-      "path": "foo.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "算法错误",
-      "path": "算法错误.md"
+      "basename": "四叠半时光机布鲁斯",
+      "path": "reading/四叠半时光机布鲁斯.md"
     },
     {
       "basename": "reading",
       "path": "reading/reading.md"
     },
     {
+      "basename": "夏日幽灵",
+      "path": "reading/夏日幽灵.md"
+    },
+    {
+      "basename": "疯狂动物城",
+      "path": "reading/疯狂动物城.md"
+    },
+    {
+      "basename": "24.48触发器的电路结构和动作特点",
+      "path": "计科/数字电路/24.48触发器的电路结构和动作特点.md"
+    },
+    {
+      "basename": "汇编常用命令",
+      "path": "汇编常用命令.md"
+    },
+    {
+      "basename": "gcc常用命令",
+      "path": "gcc常用命令.md"
+    },
+    {
+      "basename": "放松动作",
+      "path": "放松动作.md"
+    },
+    {
+      "basename": "数字电路还需要看的",
+      "path": "计科/数字电路/数字电路还需要看的.md"
+    },
+    {
+      "basename": "Catanlan",
+      "path": "Catanlan.md"
+    },
+    {
+      "basename": "anki制卡",
+      "path": "anki制卡.md"
+    },
+    {
+      "basename": "where高级用法",
+      "path": "where高级用法.md"
+    },
+    {
+      "basename": "组合逻辑",
+      "path": "组合逻辑.md"
+    },
+    {
+      "basename": "常见寻址方式",
+      "path": "常见寻址方式.md"
+    },
+    {
+      "basename": "我想专注什么",
+      "path": "我想专注什么.md"
+    },
+    {
+      "basename": "人类简史-双重现实",
+      "path": "人类简史-双重现实.md"
+    },
+    {
+      "basename": "人类简史",
+      "path": "人类简史.md"
+    },
+    {
+      "basename": "2025-12-11",
+      "path": "daily/2025-12-11.md"
+    },
+    {
+      "basename": "2025-12-12",
+      "path": "daily/2025-12-12.md"
+    },
+    {
+      "basename": "recording",
+      "path": "recording/recording.md"
+    },
+    {
+      "basename": "unix 大学教程",
+      "path": "计科/unix 大学教程/unix 大学教程.md"
+    },
+    {
+      "basename": "2025-12-09",
+      "path": "daily/2025-12-09.md"
+    },
+    {
       "basename": "temp",
       "path": "temp/temp.md"
     },
     {
-      "basename": "逻辑代数基本公式",
-      "path": "计科/数字电路/逻辑代数基本公式.md"
+      "basename": "2025-12-08",
+      "path": "daily/2025-12-08.md"
     },
     {
-      "basename": "四级写作",
-      "path": "计科/英语笔记/四级写作.md"
+      "basename": "2025-12-07",
+      "path": "daily/2025-12-07.md"
     },
     {
-      "basename": "四级翻译",
-      "path": "计科/英语笔记/四级翻译.md"
+      "basename": "论文参考",
+      "path": "论文参考.md"
     },
     {
-      "basename": "背诵片段",
-      "path": "计科/英语笔记/背诵片段.md"
+      "basename": "题",
+      "path": "题.md"
     },
     {
-      "basename": "英语六级",
-      "path": "计科/英语笔记/英语六级.md"
+      "basename": "上海站",
+      "path": "上海站.md"
     },
     {
-      "basename": "宏定义用法",
-      "path": "计科/C++/宏定义用法.md"
+      "basename": "触发器总结",
+      "path": "计科/数字电路/触发器总结.md"
     },
     {
-      "basename": "写题注意",
-      "path": "计科/C++/写题注意.md"
+      "basename": "24.48触发器的电路结构和动作特点-1764495261317",
+      "path": "计科/数字电路/24.48触发器的电路结构和动作特点-1764495261317.webp"
     },
     {
-      "basename": "二分多重",
-      "path": "计科/C++/二分多重.md"
+      "basename": "2025-12-05",
+      "path": "daily/2025-12-05.md"
     },
     {
-      "basename": "Permutations（构造）",
-      "path": "计科/C++/Permutations（构造）.md"
+      "basename": "2025-12-03",
+      "path": "daily/2025-12-03.md"
     },
     {
-      "basename": "bitset",
-      "path": "计科/C++/bitset.md"
+      "basename": "为什么学习技术原理",
+      "path": "thinking/为什么学习技术原理.md"
     },
     {
-      "basename": "lambda表达式简介（匿名函数）",
-      "path": "计科/C++/lambda表达式简介（匿名函数）.md"
+      "basename": "注意力剥夺",
+      "path": "thinking/注意力剥夺.md"
     },
     {
-      "basename": "拓展迪杰斯特拉范式",
-      "path": "归档/废案/拓展迪杰斯特拉范式.md"
+      "basename": "复习反思",
+      "path": "thinking/复习反思.md"
     },
     {
-      "basename": "模板列表",
-      "path": "recording/模板列表.md"
+      "basename": "四叠半神话大系",
+      "path": "reading/四叠半神话大系.md"
     },
     {
-      "basename": "自我保护机制",
-      "path": "thinking/自我保护机制.md"
+      "basename": "tcd的解释",
+      "path": "计科/数字电路/tcd的解释.md"
     },
     {
-      "basename": "order-only",
-      "path": "计科/tools/make/order-only.md"
+      "basename": "tps",
+      "path": "计科/数字电路/tps.typ"
     },
     {
-      "basename": "bound found",
-      "path": "计科/question/bound found.md"
+      "basename": "typst notes",
+      "path": "typst notes.md"
     },
     {
-      "basename": "重载运算符",
-      "path": "计科/question/重载运算符.md"
+      "basename": "show and set",
+      "path": "show and set.md"
     },
     {
-      "basename": "设置系统挂起与休眠模式",
-      "path": "计科/unix 大学教程/设置系统挂起与休眠模式.md"
+      "basename": "singbox",
+      "path": "singbox.md"
     },
     {
-      "basename": "管理电脑配置",
-      "path": "计科/unix 大学教程/管理电脑配置.md"
+      "basename": "一些有趣的东西",
+      "path": "一些有趣的东西.md"
+    },
+    {
+      "basename": "vim sikillsss",
+      "path": "vim sikillsss.md"
+    },
+    {
+      "basename": "關於我的真相",
+      "path": "關於我的真相.md"
+    },
+    {
+      "basename": "数据结构chapter3-1",
+      "path": "计科/数据结构/数据结构chapter3-1.md"
+    },
+    {
+      "basename": "数据结构chapter3-2",
+      "path": "计科/数据结构/数据结构chapter3-2.md"
+    },
+    {
+      "basename": "数据结构chapter4",
+      "path": "计科/数据结构/数据结构chapter4.md"
+    },
+    {
+      "basename": "数据结构chapter5",
+      "path": "计科/数据结构/数据结构chapter5.md"
+    },
+    {
+      "basename": "数据结构chapter6",
+      "path": "计科/数据结构/数据结构chapter6.md"
     }
   ],
   "omittedPaths": [],

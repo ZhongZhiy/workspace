@@ -1,0 +1,11 @@
+{
+  "defaultMode": "source",
+  "useDefaultLayoutFunctions": false,
+  "usePdfLayoutFunctions": false,
+  "autoDownloadPackages": true,
+  "fontFamilies": [],
+  "pdfLayoutFunctions": "",
+  "enableTextLayer": true,
+  "customSnippets": "{\n  \"table\": {\n    \"prefix\": \"tbl\",\n    \"body\": [\n      \"#align(center,\",\n      \"\\ttable(\",\n      \"\\t\\tcolumns: ${},\",\n      \"\\t\\t[${}],\",\n      \"\\t)\",\n      \")\"\n    ]\n  }\n}",
+  "customLayoutFunctions": "#set page(\n  // Normal reading mode width\n  width: %LINEWIDTH%, \n  // Makes everything on one page\n  height: auto,\n  // Essentially 0 margin.\n  // Some padding is needed to \n  // make the PDF not cut off\n  margin: (x: 0.25em, y: 0.25em),\n  // Set the BG color of page to\n  // the BG color of Obsidian\n  fill: rgb(\"%BGCOLOR%\")\n)\n\n#set text(\n  // Current Obsidian font size\n  size: %FONTSIZE%,\n  // Theme text color\n  fill: rgb(\"%THEMECOLOR%\")\n)\n\n// Paragraph styling\n#set par(\n  justify: true,\n  leading: 0.65em\n)\n\n// Set colors of elements to theme colors\n// Off by default, turn these on to set \n// most Typst elements to the theme color\n// #show heading: set text(fill: rgb(\"%HEADINGCOLOR%\"))\n// #show math.equation: set text(fill: rgb(\"%THEMECOLOR%\"))\n// #set block(fill: none)\n// #set rect(fill: none, stroke: rgb(\"%THEMECOLOR%\"))\n// #set box(fill: none, stroke: rgb(\"%THEMECOLOR%\"))\n// #set circle(fill: none, stroke: rgb(\"%THEMECOLOR%\"))\n// #set ellipse(fill: none, stroke: rgb(\"%THEMECOLOR%\"))\n// #set polygon(fill: none, stroke: rgb(\"%THEMECOLOR%\"))\n// #set line(stroke: rgb(\"%THEMECOLOR%\"))\n// #show table: set table(stroke: rgb(\"%THEMECOLOR%\"))\n// #show math.equation: set box(stroke: none)"
+}

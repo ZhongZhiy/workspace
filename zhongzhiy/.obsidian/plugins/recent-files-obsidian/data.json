@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-12",
+      "path": "daily/2025-12-12.md"
+    },
+    {
+      "basename": "2025-12-11",
+      "path": "daily/2025-12-11.md"
+    },
+    {
+      "basename": "2025-12-13",
+      "path": "daily/2025-12-13.md"
+    },
+    {
+      "basename": "gsnake",
+      "path": "gsnake.md"
+    },
+    {
+      "basename": "xor简单性质",
+      "path": "xor简单性质.md"
+    },
+    {
+      "basename": "vim sikillsss",
+      "path": "vim sikillsss.md"
+    },
+    {
+      "basename": "reading",
+      "path": "reading/reading.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp/temp.md"
+    },
+    {
+      "basename": "recording",
+      "path": "recording/recording.md"
+    },
+    {
       "basename": "无知转生",
       "path": "reading/无知转生.md"
     },
     {
       "basename": "四叠半时光机布鲁斯",
       "path": "reading/四叠半时光机布鲁斯.md"
-    },
-    {
-      "basename": "reading",
-      "path": "reading/reading.md"
     },
     {
       "basename": "夏日幽灵",
@@ -73,28 +105,12 @@
       "path": "人类简史.md"
     },
     {
-      "basename": "2025-12-11",
-      "path": "daily/2025-12-11.md"
-    },
-    {
-      "basename": "2025-12-12",
-      "path": "daily/2025-12-12.md"
-    },
-    {
-      "basename": "recording",
-      "path": "recording/recording.md"
-    },
-    {
       "basename": "unix 大学教程",
       "path": "计科/unix 大学教程/unix 大学教程.md"
     },
     {
       "basename": "2025-12-09",
       "path": "daily/2025-12-09.md"
-    },
-    {
-      "basename": "temp",
-      "path": "temp/temp.md"
     },
     {
       "basename": "2025-12-08",
@@ -173,10 +189,6 @@
       "path": "一些有趣的东西.md"
     },
     {
-      "basename": "vim sikillsss",
-      "path": "vim sikillsss.md"
-    },
-    {
       "basename": "關於我的真相",
       "path": "關於我的真相.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "数据结构chapter3-2",
       "path": "计科/数据结构/数据结构chapter3-2.md"
-    },
-    {
-      "basename": "数据结构chapter4",
-      "path": "计科/数据结构/数据结构chapter4.md"
-    },
-    {
-      "basename": "数据结构chapter5",
-      "path": "计科/数据结构/数据结构chapter5.md"
-    },
-    {
-      "basename": "数据结构chapter6",
-      "path": "计科/数据结构/数据结构chapter6.md"
     }
   ],
   "omittedPaths": [],

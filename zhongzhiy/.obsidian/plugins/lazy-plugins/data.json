@@ -116,6 +116,9 @@
       },
       "terminal": {
         "startupType": "instant"
+      },
+      "share-note": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []

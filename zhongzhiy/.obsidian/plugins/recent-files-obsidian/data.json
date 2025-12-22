@@ -1,40 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-12-12",
-      "path": "daily/2025-12-12.md"
+      "basename": "tp",
+      "path": "tp.md"
     },
     {
-      "basename": "2025-12-11",
-      "path": "daily/2025-12-11.md"
+      "basename": "notebook制作闪卡53242",
+      "path": "notebook制作闪卡53242.md"
     },
     {
-      "basename": "2025-12-13",
-      "path": "daily/2025-12-13.md"
+      "basename": "vim键盘映射",
+      "path": "计科/unix 大学教程/nvim配置过程/vim键盘映射.md"
     },
     {
-      "basename": "gsnake",
-      "path": "gsnake.md"
+      "basename": "vim基本操作",
+      "path": "vim基本操作.md"
     },
     {
-      "basename": "xor简单性质",
-      "path": "xor简单性质.md"
+      "basename": "vim寄存器",
+      "path": "计科/unix 大学教程/vim寄存器.md"
     },
     {
-      "basename": "vim sikillsss",
-      "path": "vim sikillsss.md"
+      "basename": "2025-12-19",
+      "path": "daily/2025-12-19.md"
     },
     {
       "basename": "reading",
       "path": "reading/reading.md"
     },
     {
-      "basename": "temp",
-      "path": "temp/temp.md"
+      "basename": "2025-12-22",
+      "path": "daily/2025-12-22.md"
+    },
+    {
+      "basename": "vim有9种模式",
+      "path": "计科/unix 大学教程/nvim配置过程/vim有9种模式.md"
+    },
+    {
+      "basename": "vim sikillsss",
+      "path": "vim sikillsss.md"
+    },
+    {
+      "basename": "vim_tab",
+      "path": "计科/unix 大学教程/vim_tab.md"
+    },
+    {
+      "basename": "nvim tortur",
+      "path": "计科/unix 大学教程/nvim配置过程/nvim tortur.md"
+    },
+    {
+      "basename": "Neovim 快捷键总结",
+      "path": "temp/Neovim 快捷键总结.md"
+    },
+    {
+      "basename": "vim表",
+      "path": "计科/unix 大学教程/nvim配置过程/vim表.md"
+    },
+    {
+      "basename": "2025-12-20",
+      "path": "daily/2025-12-20.md"
+    },
+    {
+      "basename": "配置docker",
+      "path": "配置docker.md"
+    },
+    {
+      "basename": "安装ssh和服务器",
+      "path": "安装ssh和服务器.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "组合逻辑",
+      "path": "组合逻辑.md"
+    },
+    {
+      "basename": "anki制卡",
+      "path": "anki制卡.md"
     },
     {
       "basename": "recording",
       "path": "recording/recording.md"
+    },
+    {
+      "basename": "2025-12-17",
+      "path": "daily/2025-12-17.md"
+    },
+    {
+      "basename": "2025-12-16",
+      "path": "daily/2025-12-16.md"
+    },
+    {
+      "basename": "2025-12-15",
+      "path": "daily/2025-12-15.md"
+    },
+    {
+      "basename": "2025-12-08",
+      "path": "daily/2025-12-08.md"
+    },
+    {
+      "basename": "题",
+      "path": "题.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp/temp.md"
+    },
+    {
+      "basename": "2025-12-13",
+      "path": "daily/2025-12-13.md"
+    },
+    {
+      "basename": "2025-12-14",
+      "path": "daily/2025-12-14.md"
+    },
+    {
+      "basename": "2025-12-11",
+      "path": "daily/2025-12-11.md"
+    },
+    {
+      "basename": "常见寻址方式",
+      "path": "常见寻址方式.md"
+    },
+    {
+      "basename": "我认识到我没有什么是一直在坚持的，所以我的平庸，我的无能，我的无奈也都是注定的",
+      "path": "thinking/我认识到我没有什么是一直在坚持的，所以我的平庸，我的无能，我的无奈也都是注定的.md"
+    },
+    {
+      "basename": "xor简单性质",
+      "path": "xor简单性质.md"
+    },
+    {
+      "basename": "2025-12-12",
+      "path": "daily/2025-12-12.md"
+    },
+    {
+      "basename": "gsnake",
+      "path": "gsnake.md"
     },
     {
       "basename": "无知转生",
@@ -77,20 +185,8 @@
       "path": "Catanlan.md"
     },
     {
-      "basename": "anki制卡",
-      "path": "anki制卡.md"
-    },
-    {
       "basename": "where高级用法",
       "path": "where高级用法.md"
-    },
-    {
-      "basename": "组合逻辑",
-      "path": "组合逻辑.md"
-    },
-    {
-      "basename": "常见寻址方式",
-      "path": "常见寻址方式.md"
     },
     {
       "basename": "我想专注什么",
@@ -103,102 +199,6 @@
     {
       "basename": "人类简史",
       "path": "人类简史.md"
-    },
-    {
-      "basename": "unix 大学教程",
-      "path": "计科/unix 大学教程/unix 大学教程.md"
-    },
-    {
-      "basename": "2025-12-09",
-      "path": "daily/2025-12-09.md"
-    },
-    {
-      "basename": "2025-12-08",
-      "path": "daily/2025-12-08.md"
-    },
-    {
-      "basename": "2025-12-07",
-      "path": "daily/2025-12-07.md"
-    },
-    {
-      "basename": "论文参考",
-      "path": "论文参考.md"
-    },
-    {
-      "basename": "题",
-      "path": "题.md"
-    },
-    {
-      "basename": "上海站",
-      "path": "上海站.md"
-    },
-    {
-      "basename": "触发器总结",
-      "path": "计科/数字电路/触发器总结.md"
-    },
-    {
-      "basename": "24.48触发器的电路结构和动作特点-1764495261317",
-      "path": "计科/数字电路/24.48触发器的电路结构和动作特点-1764495261317.webp"
-    },
-    {
-      "basename": "2025-12-05",
-      "path": "daily/2025-12-05.md"
-    },
-    {
-      "basename": "2025-12-03",
-      "path": "daily/2025-12-03.md"
-    },
-    {
-      "basename": "为什么学习技术原理",
-      "path": "thinking/为什么学习技术原理.md"
-    },
-    {
-      "basename": "注意力剥夺",
-      "path": "thinking/注意力剥夺.md"
-    },
-    {
-      "basename": "复习反思",
-      "path": "thinking/复习反思.md"
-    },
-    {
-      "basename": "四叠半神话大系",
-      "path": "reading/四叠半神话大系.md"
-    },
-    {
-      "basename": "tcd的解释",
-      "path": "计科/数字电路/tcd的解释.md"
-    },
-    {
-      "basename": "tps",
-      "path": "计科/数字电路/tps.typ"
-    },
-    {
-      "basename": "typst notes",
-      "path": "typst notes.md"
-    },
-    {
-      "basename": "show and set",
-      "path": "show and set.md"
-    },
-    {
-      "basename": "singbox",
-      "path": "singbox.md"
-    },
-    {
-      "basename": "一些有趣的东西",
-      "path": "一些有趣的东西.md"
-    },
-    {
-      "basename": "關於我的真相",
-      "path": "關於我的真相.md"
-    },
-    {
-      "basename": "数据结构chapter3-1",
-      "path": "计科/数据结构/数据结构chapter3-1.md"
-    },
-    {
-      "basename": "数据结构chapter3-2",
-      "path": "计科/数据结构/数据结构chapter3-2.md"
     }
   ],
   "omittedPaths": [],

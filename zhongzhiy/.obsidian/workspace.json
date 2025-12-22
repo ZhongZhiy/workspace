@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xor简单性质.md",
+                "file": "daily/2025-12-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "xor简单性质"
+              "title": "2025-12-14"
             }
           },
           {
@@ -88,17 +88,92 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-12.md",
+                "file": "daily/2025-12-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "2025-12-13"
+            }
+          },
+          {
+            "id": "d329e9cbbff51639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "tp"
+            }
+          },
+          {
+            "id": "12396b7478958633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notebook制作闪卡53242.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "notebook制作闪卡53242"
+            }
+          },
+          {
+            "id": "e650356ebe64ec27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计科/unix 大学教程/nvim配置过程/vim键盘映射.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "vim键盘映射"
+            }
+          },
+          {
+            "id": "cd32f00fa32580d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim基本操作.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "vim基本操作"
+            }
+          },
+          {
+            "id": "2769b09d5469205b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计科/unix 大学教程/vim寄存器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "vim寄存器"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "寄存器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,7 +328,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,37 +343,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93db0567ac09b595",
+  "active": "d329e9cbbff51639",
   "lastOpenFiles": [
+    "notebook制作闪卡53242.md",
+    "计科/unix 大学教程/nvim配置过程/vim键盘映射.md",
+    "vim基本操作.md",
+    "计科/unix 大学教程/vim寄存器.md",
+    "daily/2025-12-19.md",
+    "reading/reading.md",
+    "daily/2025-12-22.md",
+    "计科/unix 大学教程/nvim配置过程/vim有9种模式.md",
+    "vim sikillsss.md",
+    "计科/unix 大学教程/vim_tab.md",
+    "计科/unix 大学教程/nvim配置过程/nvim tortur.md",
+    "temp/Neovim 快捷键总结.md",
+    "计科/unix 大学教程/nvim配置过程/vim表.md",
+    "daily/2025-12-20.md",
+    "配置docker.md",
+    "安装ssh和服务器.md",
+    "Untitled 1.md",
+    "组合逻辑.md",
+    "anki制卡.md",
+    "recording/recording.md",
+    "daily/2025-12-17.md",
+    "daily/2025-12-16.md",
+    "daily/2025-12-15.md",
+    "daily/2025-12-08.md",
+    "题.md",
+    "Untitled.md",
     "daily/2025-12-12-1765557582534.webp",
     "daily/2025-12-12-1765557570344.webp",
     "daily/2025-12-12-1765557561879.webp",
     "daily/2025-12-12-1765557545878.webp",
-    "daily/2025-12-11.md",
-    "daily/2025-12-12.md",
-    "daily/2025-12-13.md",
-    "gsnake.md",
-    "xor简单性质.md",
-    "vim sikillsss.md",
-    "reading/reading.md",
-    "temp/temp.md",
-    "recording/recording.md",
-    "reading/无知转生.md",
-    "reading/四叠半时光机布鲁斯.md",
-    "reading/夏日幽灵.md",
-    "reading/疯狂动物城.md",
-    "计科/数字电路/24.48触发器的电路结构和动作特点.md",
-    "汇编常用命令.md",
-    "gcc常用命令.md",
-    "放松动作.md",
-    "计科/数字电路/数字电路还需要看的.md",
-    "Catanlan.md",
-    "anki制卡.md",
-    "where高级用法.md",
-    "组合逻辑.md",
-    "常见寻址方式.md",
-    "我想专注什么.md",
-    "人类简史-双重现实.md",
     "计科/数字电路/24.48触发器的电路结构和动作特点-1764495261317.webp",
     "Untitled.canvas",
     "计科/数字电路/tps.typ",
@@ -307,7 +384,6 @@
     "计科/数字电路/门电路-1764838339406.webp",
     "计科/数字电路/24.48触发器的电路结构和动作特点-1764769034657.webp",
     "计科/数字电路/24.48触发器的电路结构和动作特点-1764768838449.webp",
-    "计科/数字电路/24.48触发器的电路结构和动作特点-1764767915765.webp",
     "计科/数字电路/tp.typ",
     "Untitled.base",
     "Untitled 4.base",

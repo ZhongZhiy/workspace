@@ -8,142 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bda16259ede9cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/temp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "temp"
-            }
-          },
-          {
-            "id": "9cd1ca4eaa3cc963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-11"
-            }
-          },
-          {
-            "id": "54eaf4283ccbe2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading/reading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "reading"
-            }
-          },
-          {
-            "id": "1a3c0ee4b6e9bedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim sikillsss.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "vim sikillsss"
-            }
-          },
-          {
-            "id": "bf05d755e3a3da95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-14"
-            }
-          },
-          {
-            "id": "f71167b0ebcb8672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-13"
-            }
-          },
-          {
-            "id": "d329e9cbbff51639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "tp"
-            }
-          },
-          {
-            "id": "12396b7478958633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notebook制作闪卡53242.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "notebook制作闪卡53242"
-            }
-          },
-          {
-            "id": "e650356ebe64ec27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计科/unix 大学教程/nvim配置过程/vim键盘映射.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "vim键盘映射"
-            }
-          },
-          {
-            "id": "cd32f00fa32580d3",
+            "id": "d1e3d84026c82f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,22 +23,157 @@
             }
           },
           {
-            "id": "2769b09d5469205b",
+            "id": "38e36de8b3ff36f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计科/unix 大学教程/vim寄存器.md",
+                "file": "daily/2026-01-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vim寄存器"
+              "title": "2026-01-07"
+            }
+          },
+          {
+            "id": "62318f42ddf17770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能导论第四章搜索.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "人工智能导论第四章搜索"
+            }
+          },
+          {
+            "id": "594c4bb9cbd47aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能导论第五章智能算法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "人工智能导论第五章智能算法"
+            }
+          },
+          {
+            "id": "1243269a031806bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第六章.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第六章"
+            }
+          },
+          {
+            "id": "c21ef933a1505e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第七章.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第七章"
+            }
+          },
+          {
+            "id": "05049ed06a2b32ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第八章.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第八章"
+            }
+          },
+          {
+            "id": "5db171a5daaa0b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第9章.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第9章"
+            }
+          },
+          {
+            "id": "ed89ac82ee5f60dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "4a2637f273645283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语音处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "语音处理"
+            }
+          },
+          {
+            "id": "d85daedc4620e3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "寄存器",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -328,8 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,34 +342,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d329e9cbbff51639",
+  "active": "38e36de8b3ff36f8",
   "lastOpenFiles": [
-    "notebook制作闪卡53242.md",
-    "计科/unix 大学教程/nvim配置过程/vim键盘映射.md",
+    "计科/unix 大学教程/unix 大学教程.md",
+    "daily/2026-01-07.md",
+    "计科/unix 大学教程/linux指定服务器.md",
+    "daily/2026-01-01.md",
+    "2026-01-01-1767263455686.webp",
+    "daily/2025-01-01.md",
+    "2026-01-01-1767198387303.webp",
+    "daily/2024-12-27.md",
+    "daily/2025-12-31.md",
+    "daily/2025-12-27.md",
+    "人工智能导论第三章知识图谱.md",
+    "Untitled 3.md",
+    "语音处理.md",
+    "Untitled 2.md",
+    "第9章.md",
+    "第八章.md",
+    "第七章.md",
+    "第六章.md",
+    "人工智能导论第五章智能算法.md",
+    "人工智能导论第四章搜索.md",
+    "人工智能导论.md",
+    "人工智能导论第二章.md",
+    "人工智能导论绪论.md",
     "vim基本操作.md",
+    "daily/2025-12-23.md",
+    "人工智能导论考点.md",
     "计科/unix 大学教程/vim寄存器.md",
-    "daily/2025-12-19.md",
-    "reading/reading.md",
-    "daily/2025-12-22.md",
-    "计科/unix 大学教程/nvim配置过程/vim有9种模式.md",
-    "vim sikillsss.md",
-    "计科/unix 大学教程/vim_tab.md",
-    "计科/unix 大学教程/nvim配置过程/nvim tortur.md",
-    "temp/Neovim 快捷键总结.md",
-    "计科/unix 大学教程/nvim配置过程/vim表.md",
-    "daily/2025-12-20.md",
-    "配置docker.md",
-    "安装ssh和服务器.md",
-    "Untitled 1.md",
-    "组合逻辑.md",
-    "anki制卡.md",
-    "recording/recording.md",
-    "daily/2025-12-17.md",
-    "daily/2025-12-16.md",
-    "daily/2025-12-15.md",
-    "daily/2025-12-08.md",
-    "题.md",
-    "Untitled.md",
+    "计科/unix 大学教程/nvim配置过程/vim键盘映射.md",
     "daily/2025-12-12-1765557582534.webp",
     "daily/2025-12-12-1765557570344.webp",
     "daily/2025-12-12-1765557561879.webp",
@@ -382,8 +383,6 @@
     "计科/数字电路/门电路-1764856537561.webp",
     "计科/数字电路/门电路-1764853232083.webp",
     "计科/数字电路/门电路-1764838339406.webp",
-    "计科/数字电路/24.48触发器的电路结构和动作特点-1764769034657.webp",
-    "计科/数字电路/24.48触发器的电路结构和动作特点-1764768838449.webp",
     "计科/数字电路/tp.typ",
     "Untitled.base",
     "Untitled 4.base",

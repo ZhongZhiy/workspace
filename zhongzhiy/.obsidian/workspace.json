@@ -38,6 +38,36 @@
             }
           },
           {
+            "id": "d79935671b4b5126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "树形DP求直径.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "树形DP求直径"
+            }
+          },
+          {
+            "id": "b5869cc91b0f86c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "费马小定理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "费马小定理"
+            }
+          },
+          {
             "id": "62318f42ddf17770",
             "type": "leaf",
             "state": {
@@ -118,62 +148,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第9章.md",
+                "file": "费马小定理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第9章"
-            }
-          },
-          {
-            "id": "ed89ac82ee5f60dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "4a2637f273645283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "语音处理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "语音处理"
-            }
-          },
-          {
-            "id": "d85daedc4620e3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "费马小定理"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -342,10 +327,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38e36de8b3ff36f8",
+  "active": "5db171a5daaa0b95",
   "lastOpenFiles": [
-    "计科/unix 大学教程/unix 大学教程.md",
+    "第9章.md",
+    "Untitled 2.md",
+    "语音处理.md",
+    "Untitled 3.md",
+    "费马小定理.md",
+    "树形DP求直径.md",
     "daily/2026-01-07.md",
+    "计科/unix 大学教程/unix 大学教程.md",
     "计科/unix 大学教程/linux指定服务器.md",
     "daily/2026-01-01.md",
     "2026-01-01-1767263455686.webp",
@@ -355,10 +346,6 @@
     "daily/2025-12-31.md",
     "daily/2025-12-27.md",
     "人工智能导论第三章知识图谱.md",
-    "Untitled 3.md",
-    "语音处理.md",
-    "Untitled 2.md",
-    "第9章.md",
     "第八章.md",
     "第七章.md",
     "第六章.md",
@@ -370,8 +357,6 @@
     "vim基本操作.md",
     "daily/2025-12-23.md",
     "人工智能导论考点.md",
-    "计科/unix 大学教程/vim寄存器.md",
-    "计科/unix 大学教程/nvim配置过程/vim键盘映射.md",
     "daily/2025-12-12-1765557582534.webp",
     "daily/2025-12-12-1765557570344.webp",
     "daily/2025-12-12-1765557561879.webp",

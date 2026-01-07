@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "费马小定理",
+      "path": "费马小定理.md"
+    },
+    {
+      "basename": "第9章",
+      "path": "第9章.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "语音处理",
+      "path": "语音处理.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Untitled 3.md"
+    },
+    {
+      "basename": "树形DP求直径",
+      "path": "树形DP求直径.md"
+    },
+    {
       "basename": "2026-01-07",
       "path": "daily/2026-01-07.md"
     },
@@ -35,22 +59,6 @@
     {
       "basename": "人工智能导论第三章知识图谱",
       "path": "人工智能导论第三章知识图谱.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
-    },
-    {
-      "basename": "语音处理",
-      "path": "语音处理.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
-    },
-    {
-      "basename": "第9章",
-      "path": "第9章.md"
     },
     {
       "basename": "第八章",
@@ -191,14 +199,6 @@
     {
       "basename": "recording",
       "path": "recording/recording.md"
-    },
-    {
-      "basename": "2025-12-17",
-      "path": "daily/2025-12-17.md"
-    },
-    {
-      "basename": "2025-12-16",
-      "path": "daily/2025-12-16.md"
     }
   ],
   "omittedPaths": [],

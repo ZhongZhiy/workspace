@@ -103,7 +103,7 @@ backspace映射到`^H`
 `lock`临时上锁
 `leave`提醒离开
 `echo`把多行输入合并为一行输出
-
+`last`
 ## 联机手册
 `man`使用h查看帮助，使用`!date`可以使用shell命令
 手册有8节分类

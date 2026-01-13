@@ -4,161 +4,101 @@
     "type": "split",
     "children": [
       {
-        "id": "1fed113ed817806f",
+        "id": "789361ac7dad5259",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e3d84026c82f8b",
+            "id": "88c03536013d97f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim基本操作.md",
+                "file": "自定义语录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vim基本操作"
+              "title": "自定义语录"
             }
           },
           {
-            "id": "38e36de8b3ff36f8",
+            "id": "e5aa424188c058b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-07.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "Untitled"
             }
           },
           {
-            "id": "d79935671b4b5126",
+            "id": "aea0e6d1806ca998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "树形DP求直径.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "树形DP求直径"
-            }
-          },
-          {
-            "id": "b5869cc91b0f86c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "费马小定理.md",
+                "file": "Astar(k短路).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "费马小定理"
+              "title": "Astar(k短路)"
             }
           },
           {
-            "id": "62318f42ddf17770",
+            "id": "2f43f3ef6171770d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能导论第四章搜索.md",
+                "file": "Astar(k短路).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "人工智能导论第四章搜索"
+              "title": "Astar(k短路)"
             }
           },
           {
-            "id": "594c4bb9cbd47aae",
+            "id": "64b94228b5974243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能导论第五章智能算法.md",
+                "file": "daily/2026-01-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "人工智能导论第五章智能算法"
+              "title": "2026-01-12"
             }
           },
           {
-            "id": "1243269a031806bd",
+            "id": "6a60f837190b05ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第六章.md",
+                "file": "著名模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第六章"
-            }
-          },
-          {
-            "id": "c21ef933a1505e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第七章.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第七章"
-            }
-          },
-          {
-            "id": "05049ed06a2b32ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第八章.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第八章"
-            }
-          },
-          {
-            "id": "5db171a5daaa0b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "费马小定理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "费马小定理"
+              "title": "著名模板"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -327,36 +267,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5db171a5daaa0b95",
+  "active": "6a60f837190b05ef",
   "lastOpenFiles": [
-    "第9章.md",
-    "Untitled 2.md",
-    "语音处理.md",
-    "Untitled 3.md",
-    "费马小定理.md",
-    "树形DP求直径.md",
-    "daily/2026-01-07.md",
+    "daily/2026-01-12.md",
+    "著名模板.md",
+    "reading/reading.md",
+    "recording/recording.md",
+    "最长路径.md",
+    "Astar(k短路).md",
+    "自定义语录.md",
+    "Untitled.md",
+    "终端修改.md",
+    "Locale 警告.md",
+    "论文参考.md",
+    "daily/2026-01-09.md",
     "计科/unix 大学教程/unix 大学教程.md",
-    "计科/unix 大学教程/linux指定服务器.md",
-    "daily/2026-01-01.md",
-    "2026-01-01-1767263455686.webp",
-    "daily/2025-01-01.md",
-    "2026-01-01-1767198387303.webp",
-    "daily/2024-12-27.md",
-    "daily/2025-12-31.md",
-    "daily/2025-12-27.md",
-    "人工智能导论第三章知识图谱.md",
-    "第八章.md",
-    "第七章.md",
-    "第六章.md",
-    "人工智能导论第五章智能算法.md",
-    "人工智能导论第四章搜索.md",
-    "人工智能导论.md",
-    "人工智能导论第二章.md",
-    "人工智能导论绪论.md",
-    "vim基本操作.md",
-    "daily/2025-12-23.md",
-    "人工智能导论考点.md",
+    "计科/unix 大学教程/nvim配置过程/nvim配置过程.md",
+    "daily/2026-01-07.md",
+    "tp.md",
+    "常见寻址方式.md",
+    "我想专注什么.md",
+    "汇编常用命令.md",
+    "算法错误.md",
+    "show and set.md",
+    "singbox.md",
+    "the art of command line.md",
+    "一些有趣的东西.md",
+    "vim sikillsss.md",
+    "人类简史-双重现实.md",
+    "daily/2026-01-01-1767198387303.webp",
+    "daily/2026-01-01-1767263455686.webp",
     "daily/2025-12-12-1765557582534.webp",
     "daily/2025-12-12-1765557570344.webp",
     "daily/2025-12-12-1765557561879.webp",

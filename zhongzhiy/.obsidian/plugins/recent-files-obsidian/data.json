@@ -1,36 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "费马小定理",
-      "path": "费马小定理.md"
+      "basename": "著名模板",
+      "path": "著名模板.md"
     },
     {
-      "basename": "第9章",
-      "path": "第9章.md"
+      "basename": "2026-01-12",
+      "path": "daily/2026-01-12.md"
     },
     {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
+      "basename": "reading",
+      "path": "reading/reading.md"
     },
     {
-      "basename": "语音处理",
-      "path": "语音处理.md"
+      "basename": "recording",
+      "path": "recording/recording.md"
     },
     {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
+      "basename": "最长路径",
+      "path": "最长路径.md"
     },
     {
-      "basename": "树形DP求直径",
-      "path": "树形DP求直径.md"
+      "basename": "Astar(k短路)",
+      "path": "Astar(k短路).md"
+    },
+    {
+      "basename": "自定义语录",
+      "path": "自定义语录.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "终端修改",
+      "path": "终端修改.md"
+    },
+    {
+      "basename": "Locale 警告",
+      "path": "Locale 警告.md"
+    },
+    {
+      "basename": "论文参考",
+      "path": "论文参考.md"
+    },
+    {
+      "basename": "2026-01-09",
+      "path": "daily/2026-01-09.md"
+    },
+    {
+      "basename": "unix 大学教程",
+      "path": "计科/unix 大学教程/unix 大学教程.md"
+    },
+    {
+      "basename": "nvim配置过程",
+      "path": "计科/unix 大学教程/nvim配置过程/nvim配置过程.md"
     },
     {
       "basename": "2026-01-07",
       "path": "daily/2026-01-07.md"
     },
     {
-      "basename": "unix 大学教程",
-      "path": "计科/unix 大学教程/unix 大学教程.md"
+      "basename": "tp",
+      "path": "tp.md"
+    },
+    {
+      "basename": "常见寻址方式",
+      "path": "常见寻址方式.md"
+    },
+    {
+      "basename": "我想专注什么",
+      "path": "我想专注什么.md"
+    },
+    {
+      "basename": "汇编常用命令",
+      "path": "汇编常用命令.md"
+    },
+    {
+      "basename": "show and set",
+      "path": "show and set.md"
+    },
+    {
+      "basename": "singbox",
+      "path": "singbox.md"
+    },
+    {
+      "basename": "the art of command line",
+      "path": "the art of command line.md"
+    },
+    {
+      "basename": "一些有趣的东西",
+      "path": "一些有趣的东西.md"
+    },
+    {
+      "basename": "人类简史-双重现实",
+      "path": "人类简史-双重现实.md"
+    },
+    {
+      "basename": "人类简史",
+      "path": "人类简史.md"
+    },
+    {
+      "basename": "Catanlan",
+      "path": "Catanlan.md"
+    },
+    {
+      "basename": "gcc常用命令",
+      "path": "gcc常用命令.md"
+    },
+    {
+      "basename": "xor简单性质",
+      "path": "计科/C++和算法/xor简单性质.md"
+    },
+    {
+      "basename": "配置docker",
+      "path": "配置docker.md"
+    },
+    {
+      "basename": "vim基本操作",
+      "path": "thinking/vim基本操作.md"
+    },
+    {
+      "basename": "费马小定理",
+      "path": "计科/C++和算法/费马小定理.md"
+    },
+    {
+      "basename": "2026-01-01-1767198387303",
+      "path": "daily/2026-01-01-1767198387303.webp"
+    },
+    {
+      "basename": "2026-01-01-1767263455686",
+      "path": "daily/2026-01-01-1767263455686.webp"
+    },
+    {
+      "basename": "anki制卡",
+      "path": "anki制卡.md"
+    },
+    {
+      "basename": "树形DP求直径",
+      "path": "计科/C++和算法/树形DP求直径.md"
     },
     {
       "basename": "linux指定服务器",
@@ -57,52 +165,8 @@
       "path": "daily/2025-12-27.md"
     },
     {
-      "basename": "人工智能导论第三章知识图谱",
-      "path": "人工智能导论第三章知识图谱.md"
-    },
-    {
-      "basename": "第八章",
-      "path": "第八章.md"
-    },
-    {
-      "basename": "第七章",
-      "path": "第七章.md"
-    },
-    {
-      "basename": "第六章",
-      "path": "第六章.md"
-    },
-    {
-      "basename": "人工智能导论第五章智能算法",
-      "path": "人工智能导论第五章智能算法.md"
-    },
-    {
-      "basename": "人工智能导论第四章搜索",
-      "path": "人工智能导论第四章搜索.md"
-    },
-    {
-      "basename": "人工智能导论",
-      "path": "人工智能导论.md"
-    },
-    {
-      "basename": "人工智能导论第二章",
-      "path": "人工智能导论第二章.md"
-    },
-    {
-      "basename": "人工智能导论绪论",
-      "path": "人工智能导论绪论.md"
-    },
-    {
-      "basename": "vim基本操作",
-      "path": "vim基本操作.md"
-    },
-    {
       "basename": "2025-12-23",
       "path": "daily/2025-12-23.md"
-    },
-    {
-      "basename": "人工智能导论考点",
-      "path": "人工智能导论考点.md"
     },
     {
       "basename": "vim寄存器",
@@ -113,28 +177,12 @@
       "path": "计科/unix 大学教程/nvim配置过程/vim键盘映射.md"
     },
     {
-      "basename": "notebook制作闪卡53242",
-      "path": "notebook制作闪卡53242.md"
-    },
-    {
-      "basename": "tp",
-      "path": "tp.md"
-    },
-    {
       "basename": "2025-12-13",
       "path": "daily/2025-12-13.md"
     },
     {
       "basename": "2025-12-14",
       "path": "daily/2025-12-14.md"
-    },
-    {
-      "basename": "vim sikillsss",
-      "path": "vim sikillsss.md"
-    },
-    {
-      "basename": "reading",
-      "path": "reading/reading.md"
     },
     {
       "basename": "2025-12-11",
@@ -151,54 +199,6 @@
     {
       "basename": "2025-12-22",
       "path": "daily/2025-12-22.md"
-    },
-    {
-      "basename": "vim有9种模式",
-      "path": "计科/unix 大学教程/nvim配置过程/vim有9种模式.md"
-    },
-    {
-      "basename": "vim_tab",
-      "path": "计科/unix 大学教程/vim_tab.md"
-    },
-    {
-      "basename": "nvim tortur",
-      "path": "计科/unix 大学教程/nvim配置过程/nvim tortur.md"
-    },
-    {
-      "basename": "Neovim 快捷键总结",
-      "path": "temp/Neovim 快捷键总结.md"
-    },
-    {
-      "basename": "vim表",
-      "path": "计科/unix 大学教程/nvim配置过程/vim表.md"
-    },
-    {
-      "basename": "2025-12-20",
-      "path": "daily/2025-12-20.md"
-    },
-    {
-      "basename": "配置docker",
-      "path": "配置docker.md"
-    },
-    {
-      "basename": "安装ssh和服务器",
-      "path": "安装ssh和服务器.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "组合逻辑",
-      "path": "组合逻辑.md"
-    },
-    {
-      "basename": "anki制卡",
-      "path": "anki制卡.md"
-    },
-    {
-      "basename": "recording",
-      "path": "recording/recording.md"
     }
   ],
   "omittedPaths": [],

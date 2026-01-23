@@ -119,6 +119,9 @@
       },
       "share-note": {
         "startupType": "instant"
+      },
+      "code-styler": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []

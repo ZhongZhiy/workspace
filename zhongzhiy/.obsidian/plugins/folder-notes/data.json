@@ -9,7 +9,7 @@
   "excludeFolders": [
     {
       "type": "folder",
-      "path": "temp",
+      "path": "40Archive/Archive_2026_1_22/temp",
       "subFolders": true,
       "disableSync": true,
       "disableAutoCreate": true,

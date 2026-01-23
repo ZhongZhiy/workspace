@@ -1,5 +1,5 @@
 {
-  "folder": "daily",
-  "template": "chance/日记模板",
+  "folder": "40Archive/daily",
+  "template": "40Archive/template/Daily",
   "autorun": false
 }

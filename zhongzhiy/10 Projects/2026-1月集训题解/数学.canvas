@@ -1,0 +1,115 @@
+{
+	"edges":[
+		{
+			"id":"765f8c6f9cc81571",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"091033bdb367deda",
+			"fromSide":"right",
+			"toNode":"cb0855752fddd25c",
+			"toSide":"left",
+			"label":"求尽可能大的共因数"
+		},
+		{
+			"id":"61e4f6602d8f25fd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"091033bdb367deda",
+			"fromSide":"right",
+			"toNode":"318b2c49f34da6a4",
+			"toSide":"left",
+			"label":"对区间的因子求和"
+		},
+		{
+			"id":"9333d8a13970d596",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"318b2c49f34da6a4",
+			"fromSide":"right",
+			"toNode":"39ada9c80284ec37",
+			"toSide":"left",
+			"label":"模溢出"
+		},
+		{
+			"id":"62ce405a8fcfdbf0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"091033bdb367deda",
+			"fromSide":"right",
+			"toNode":"80e673facaa205c4",
+			"toSide":"left",
+			"label":"求约数的和积"
+		},
+		{
+			"fromFloating":false,
+			"id":"c8ea35aba892802c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"80e673facaa205c4",
+			"fromSide":"right",
+			"toNode":"8287b526765a0918",
+			"toSide":"left",
+			"label":"数论分块"
+		},
+		{
+			"id":"ca1b1d4418edba96",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"091033bdb367deda",
+			"fromSide":"right",
+			"toNode":"ffbccb8f9521b226",
+			"toSide":"left",
+			"label":"莫比乌斯函数/容斥"
+		},
+		{
+			"id":"ab02626e74f39c61",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"091033bdb367deda",
+			"fromSide":"top",
+			"toNode":"713ef5c5ae58f7e4",
+			"toSide":"bottom",
+			"label":"素数"
+		},
+		{"id":"33d8cb70624e1024","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"441d6684650dfbd1","toSide":"right"},
+		{"id":"3482bd4b5e7a2cf3","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"8186510bb5470a6a","toSide":"right"},
+		{"id":"cf2dee30200656e7","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"411026c37da9847b","toSide":"right"},
+		{"id":"628780d324202a80","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"4c6b21145b29779e","toSide":"right"},
+		{"id":"11355de5dc14edaf","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"941c65dafe827e58","toSide":"right"},
+		{"id":"9e1fc14f74df538b","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"79f3c0210a5b8219","toSide":"right"},
+		{"id":"910f65f1403c837d","fromNode":"79f3c0210a5b8219","fromSide":"left","toNode":"41ceeaa15c96647b","toSide":"right"},
+		{"id":"1e1e1fe5b54ebbee","fromNode":"79f3c0210a5b8219","fromSide":"left","toNode":"de24ba756b3843ba","toSide":"right"}
+	],
+	"metadata":{
+		"frontmatter":{},
+		"version":"1.0-1.0"
+	},
+	"nodes":[
+		{
+			"id":"091033bdb367deda",
+			"styleAttributes":{},
+			"text":"数学",
+			"type":"text",
+			"x":-480,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{"file":"40Archive/Archive_2026_1_22/temp/Sum of Divisors(因子求和).md","id":"318b2c49f34da6a4","type":"file","x":80,"y":330,"width":280,"height":130},
+		{"file":"40Archive/Archive_2026_1_22/temp/防止模溢出.md","id":"39ada9c80284ec37","type":"file","x":800,"y":190,"width":220,"height":140},
+		{"file":"40Archive/Archive_2026_1_22/temp/Common Divisors(最大共因数).md","id":"cb0855752fddd25c","type":"file","x":560,"y":-400,"width":260,"height":160},
+		{"file":"40Archive/Archive_2026_1_22/temp/Divisor Analysis(约数计算).md","id":"80e673facaa205c4","type":"file","x":400,"y":-760,"width":290,"height":160},
+		{"file":"40Archive/Archive_2026_1_22/temp/约数计算.md","id":"8287b526765a0918","type":"file","x":960,"y":-840,"width":240,"height":80},
+		{"file":"40Archive/Archive_2026_1_22/temp/Divisor Analysis(约数计算).md","id":"ffbccb8f9521b226","type":"file","x":-120,"y":-1160,"width":320,"height":160},
+		{"file":"40Archive/Archive_2026_1_22/temp/素数.md","id":"713ef5c5ae58f7e4","type":"file","x":-680,"y":-1080,"width":400,"height":400},
+		{"id":"441d6684650dfbd1","type":"file","file":"40Archive/Archive_2026_1_22/temp/组合.md","x":-1680,"y":-720,"width":400,"height":400},
+		{"id":"8186510bb5470a6a","type":"file","file":"40Archive/Archive_2026_1_22/temp/错排.md","x":-1760,"y":130,"width":400,"height":400},
+		{"id":"411026c37da9847b","type":"file","file":"40Archive/Archive_2026_1_22/temp/置换的型.md","x":-1600,"y":-1360,"width":400,"height":400},
+		{"id":"4c6b21145b29779e","type":"file","file":"40Archive/Archive_2026_1_22/temp/Permutation Order(康托展开).md","x":-1800,"y":-270,"width":400,"height":400},
+		{"id":"941c65dafe827e58","type":"file","file":"40Archive/Archive_2026_1_22/temp/卡特兰数.md","x":-1200,"y":-1680,"width":400,"height":400},
+		{"id":"69043960c5f671a0","type":"text","text":"组合","x":-925,"y":-270,"width":250,"height":60},
+		{"id":"79f3c0210a5b8219","x":-1680,"y":680,"width":400,"height":400,"type":"file","file":"10 Projects/2026-1月集训题解/矩阵快速幂.md"},
+		{"id":"41ceeaa15c96647b","type":"file","file":"CSES Throwing Dice.md","x":-2720,"y":680,"width":400,"height":400},
+		{"id":"de24ba756b3843ba","x":-2720,"y":1280,"width":400,"height":400,"type":"file","file":"10 Projects/2026-1月集训题解/CSES Graph Paths II.md"}
+	]
+}

@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "著名模板",
-      "path": "著名模板.md"
+      "basename": "数学",
+      "path": "10 Projects/2026-1月集训题解/数学.canvas"
     },
     {
-      "basename": "2026-01-12",
-      "path": "daily/2026-01-12.md"
+      "basename": "CSES Graph Paths II",
+      "path": "10 Projects/2026-1月集训题解/CSES Graph Paths II.md"
     },
     {
-      "basename": "reading",
-      "path": "reading/reading.md"
+      "basename": "CSES Throwing Dice",
+      "path": "CSES Throwing Dice.md"
     },
     {
-      "basename": "recording",
-      "path": "recording/recording.md"
+      "basename": "矩阵快速幂",
+      "path": "10 Projects/2026-1月集训题解/矩阵快速幂.md"
     },
     {
-      "basename": "最长路径",
-      "path": "最长路径.md"
+      "basename": "线段树模板",
+      "path": "10 Projects/2026-1月集训题解/线段树模板.canvas"
     },
     {
-      "basename": "Astar(k短路)",
-      "path": "Astar(k短路).md"
-    },
-    {
-      "basename": "自定义语录",
-      "path": "自定义语录.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "终端修改",
-      "path": "终端修改.md"
-    },
-    {
-      "basename": "Locale 警告",
-      "path": "Locale 警告.md"
-    },
-    {
-      "basename": "论文参考",
-      "path": "论文参考.md"
-    },
-    {
-      "basename": "2026-01-09",
-      "path": "daily/2026-01-09.md"
-    },
-    {
-      "basename": "unix 大学教程",
-      "path": "计科/unix 大学教程/unix 大学教程.md"
-    },
-    {
-      "basename": "nvim配置过程",
-      "path": "计科/unix 大学教程/nvim配置过程/nvim配置过程.md"
-    },
-    {
-      "basename": "2026-01-07",
-      "path": "daily/2026-01-07.md"
-    },
-    {
-      "basename": "tp",
-      "path": "tp.md"
-    },
-    {
-      "basename": "常见寻址方式",
-      "path": "常见寻址方式.md"
-    },
-    {
-      "basename": "我想专注什么",
-      "path": "我想专注什么.md"
-    },
-    {
-      "basename": "汇编常用命令",
-      "path": "汇编常用命令.md"
-    },
-    {
-      "basename": "show and set",
-      "path": "show and set.md"
-    },
-    {
-      "basename": "singbox",
-      "path": "singbox.md"
-    },
-    {
-      "basename": "the art of command line",
-      "path": "the art of command line.md"
-    },
-    {
-      "basename": "一些有趣的东西",
-      "path": "一些有趣的东西.md"
-    },
-    {
-      "basename": "人类简史-双重现实",
-      "path": "人类简史-双重现实.md"
-    },
-    {
-      "basename": "人类简史",
-      "path": "人类简史.md"
-    },
-    {
-      "basename": "Catanlan",
-      "path": "Catanlan.md"
-    },
-    {
-      "basename": "gcc常用命令",
-      "path": "gcc常用命令.md"
-    },
-    {
-      "basename": "xor简单性质",
-      "path": "计科/C++和算法/xor简单性质.md"
-    },
-    {
-      "basename": "配置docker",
-      "path": "配置docker.md"
-    },
-    {
-      "basename": "vim基本操作",
-      "path": "thinking/vim基本操作.md"
-    },
-    {
-      "basename": "费马小定理",
-      "path": "计科/C++和算法/费马小定理.md"
-    },
-    {
-      "basename": "2026-01-01-1767198387303",
-      "path": "daily/2026-01-01-1767198387303.webp"
-    },
-    {
-      "basename": "2026-01-01-1767263455686",
-      "path": "daily/2026-01-01-1767263455686.webp"
-    },
-    {
-      "basename": "anki制卡",
-      "path": "anki制卡.md"
-    },
-    {
-      "basename": "树形DP求直径",
-      "path": "计科/C++和算法/树形DP求直径.md"
-    },
-    {
-      "basename": "linux指定服务器",
-      "path": "计科/unix 大学教程/linux指定服务器.md"
-    },
-    {
-      "basename": "2026-01-01",
-      "path": "daily/2026-01-01.md"
-    },
-    {
-      "basename": "2025-01-01",
-      "path": "daily/2025-01-01.md"
-    },
-    {
-      "basename": "2024-12-27",
-      "path": "daily/2024-12-27.md"
-    },
-    {
-      "basename": "2025-12-31",
-      "path": "daily/2025-12-31.md"
-    },
-    {
-      "basename": "2025-12-27",
-      "path": "daily/2025-12-27.md"
-    },
-    {
-      "basename": "2025-12-23",
-      "path": "daily/2025-12-23.md"
-    },
-    {
-      "basename": "vim寄存器",
-      "path": "计科/unix 大学教程/vim寄存器.md"
-    },
-    {
-      "basename": "vim键盘映射",
-      "path": "计科/unix 大学教程/nvim配置过程/vim键盘映射.md"
-    },
-    {
-      "basename": "2025-12-13",
-      "path": "daily/2025-12-13.md"
-    },
-    {
-      "basename": "2025-12-14",
-      "path": "daily/2025-12-14.md"
-    },
-    {
-      "basename": "2025-12-11",
-      "path": "daily/2025-12-11.md"
+      "basename": "2026-01-22",
+      "path": "40Archive/daily/2026-01-22.md"
     },
     {
       "basename": "temp",
-      "path": "temp/temp.md"
+      "path": "40Archive/Archive_2026_1_22/temp/temp.md"
     },
     {
-      "basename": "2025-12-19",
-      "path": "daily/2025-12-19.md"
+      "basename": "Daily",
+      "path": "40Archive/template/Daily.md"
     },
     {
-      "basename": "2025-12-22",
-      "path": "daily/2025-12-22.md"
+      "basename": "Problem",
+      "path": "40Archive/template/Problem.md"
+    },
+    {
+      "basename": "2025-11-10",
+      "path": "40Archive/daily/2025-11-10.md"
+    },
+    {
+      "basename": "daily",
+      "path": "40Archive/daily/daily.md"
+    },
+    {
+      "basename": "the art of command line",
+      "path": "40Archive/Archive_2026_1_22/temp/the art of command line.md"
+    },
+    {
+      "basename": "一些有趣的东西",
+      "path": "40Archive/Archive_2026_1_22/temp/一些有趣的东西.md"
+    },
+    {
+      "basename": "singbox",
+      "path": "40Archive/Archive_2026_1_22/temp/singbox.md"
+    },
+    {
+      "basename": "show and set",
+      "path": "40Archive/Archive_2026_1_22/temp/show and set.md"
+    },
+    {
+      "basename": "typst",
+      "path": "40Archive/Archive_2026_1_22/temp/typst.md"
+    },
+    {
+      "basename": "2025-12-31",
+      "path": "40Archive/daily/2025-12-31.md"
+    },
+    {
+      "basename": "reading",
+      "path": "40Archive/Archive_2026_1_22/reading/reading.md"
+    },
+    {
+      "basename": "刷题模板",
+      "path": "40Archive/Archive_2026_1_22/chance/刷题模板.md"
+    },
+    {
+      "basename": "2026-01-12",
+      "path": "40Archive/daily/2026-01-12.md"
+    },
+    {
+      "basename": "2026-01-07",
+      "path": "40Archive/daily/2026-01-07.md"
+    },
+    {
+      "basename": "2026-01-01",
+      "path": "40Archive/daily/2026-01-01.md"
+    },
+    {
+      "basename": "recording",
+      "path": "40Archive/Archive_2026_1_22/recording/recording.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "40Archive/Archive_2026_1_22/chance/日记模板.md"
+    },
+    {
+      "basename": "Permutation Order(康托展开)",
+      "path": "40Archive/Archive_2026_1_22/temp/Permutation Order(康托展开).md"
+    },
+    {
+      "basename": "矩阵快速幂",
+      "path": "40Archive/Archive_2026_1_22/temp/矩阵快速幂.md"
+    },
+    {
+      "basename": "置换的型",
+      "path": "40Archive/Archive_2026_1_22/temp/置换的型.md"
+    },
+    {
+      "basename": "anki制卡",
+      "path": "40Archive/Archive_2026_1_22/temp/anki制卡.md"
+    },
+    {
+      "basename": "康托展开",
+      "path": "40Archive/Archive_2026_1_22/temp/康托展开.md"
+    },
+    {
+      "basename": "卡特兰数",
+      "path": "40Archive/Archive_2026_1_22/temp/卡特兰数.md"
+    },
+    {
+      "basename": "组合",
+      "path": "40Archive/Archive_2026_1_22/temp/组合.md"
+    },
+    {
+      "basename": "错排",
+      "path": "40Archive/Archive_2026_1_22/temp/错排.md"
+    },
+    {
+      "basename": "Locale 警告",
+      "path": "40Archive/Archive_2026_1_22/temp/Locale 警告.md"
+    },
+    {
+      "basename": "Range Updates and Sums",
+      "path": "40Archive/Archive_2026_1_22/temp/Range Updates and Sums.md"
+    },
+    {
+      "basename": "防止模溢出",
+      "path": "40Archive/Archive_2026_1_22/temp/防止模溢出.md"
+    },
+    {
+      "basename": "约数计算",
+      "path": "40Archive/Archive_2026_1_22/temp/约数计算.md"
+    },
+    {
+      "basename": "Divisor Analysis(约数计算)",
+      "path": "40Archive/Archive_2026_1_22/temp/Divisor Analysis(约数计算).md"
+    },
+    {
+      "basename": "next prime(素数判定)",
+      "path": "40Archive/Archive_2026_1_22/temp/next prime(素数判定).md"
+    },
+    {
+      "basename": "素数",
+      "path": "40Archive/Archive_2026_1_22/temp/素数.md"
+    },
+    {
+      "basename": "i128",
+      "path": "40Archive/Archive_2026_1_22/temp/i128.md"
+    },
+    {
+      "basename": "莫比乌斯函数",
+      "path": "40Archive/Archive_2026_1_22/temp/莫比乌斯函数.md"
+    },
+    {
+      "basename": "折腾电脑",
+      "path": "40Archive/Archive_2026_1_22/temp/折腾电脑.md"
+    },
+    {
+      "basename": "rust所知道",
+      "path": "40Archive/Archive_2026_1_22/temp/rust所知道.md"
+    },
+    {
+      "basename": "模运算",
+      "path": "40Archive/Archive_2026_1_22/temp/模运算.md"
+    },
+    {
+      "basename": "Counting Coprime Pairs",
+      "path": "40Archive/Archive_2026_1_22/temp/Counting Coprime Pairs.md"
+    },
+    {
+      "basename": "Common Divisors(最大共因数)",
+      "path": "40Archive/Archive_2026_1_22/temp/Common Divisors(最大共因数).md"
+    },
+    {
+      "basename": "Sum of Divisors(因子求和)",
+      "path": "40Archive/Archive_2026_1_22/temp/Sum of Divisors(因子求和).md"
+    },
+    {
+      "basename": "Polynomial Queries",
+      "path": "40Archive/Archive_2026_1_22/temp/Polynomial Queries.md"
+    },
+    {
+      "basename": "range query",
+      "path": "40Archive/Archive_2026_1_22/temp/range query.md"
+    },
+    {
+      "basename": "状态机DP",
+      "path": "40Archive/Archive_2026_1_22/temp/状态机DP.md"
     }
   ],
   "omittedPaths": [],

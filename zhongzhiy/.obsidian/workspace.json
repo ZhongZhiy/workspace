@@ -4,101 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "789361ac7dad5259",
+        "id": "8aacac950067b7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "88c03536013d97f5",
+            "id": "3479d5a35f2360af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "自定义语录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "10 Projects/2026-1月集训题解/数学.canvas",
+                "viewState": {
+                  "x": -300,
+                  "y": -52.61635220125788,
+                  "zoom": -1.6276753530895582
+                }
               },
-              "icon": "lucide-file",
-              "title": "自定义语录"
+              "icon": "lucide-layout-dashboard",
+              "title": "数学"
             }
           },
           {
-            "id": "e5aa424188c058b8",
+            "id": "e494edcc08a14596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "CSES Throwing Dice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "aea0e6d1806ca998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Astar(k短路).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Astar(k短路)"
-            }
-          },
-          {
-            "id": "2f43f3ef6171770d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Astar(k短路).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Astar(k短路)"
-            }
-          },
-          {
-            "id": "64b94228b5974243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-12"
-            }
-          },
-          {
-            "id": "6a60f837190b05ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "著名模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "著名模板"
+              "title": "CSES Throwing Dice"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:算法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,59 +206,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6a60f837190b05ef",
+  "active": "3479d5a35f2360af",
   "lastOpenFiles": [
-    "daily/2026-01-12.md",
-    "著名模板.md",
-    "reading/reading.md",
-    "recording/recording.md",
-    "最长路径.md",
-    "Astar(k短路).md",
-    "自定义语录.md",
-    "Untitled.md",
-    "终端修改.md",
-    "Locale 警告.md",
-    "论文参考.md",
-    "daily/2026-01-09.md",
-    "计科/unix 大学教程/unix 大学教程.md",
-    "计科/unix 大学教程/nvim配置过程/nvim配置过程.md",
-    "daily/2026-01-07.md",
-    "tp.md",
-    "常见寻址方式.md",
-    "我想专注什么.md",
-    "汇编常用命令.md",
-    "算法错误.md",
-    "show and set.md",
-    "singbox.md",
-    "the art of command line.md",
-    "一些有趣的东西.md",
-    "vim sikillsss.md",
-    "人类简史-双重现实.md",
-    "daily/2026-01-01-1767198387303.webp",
-    "daily/2026-01-01-1767263455686.webp",
-    "daily/2025-12-12-1765557582534.webp",
-    "daily/2025-12-12-1765557570344.webp",
-    "daily/2025-12-12-1765557561879.webp",
-    "daily/2025-12-12-1765557545878.webp",
-    "计科/数字电路/24.48触发器的电路结构和动作特点-1764495261317.webp",
-    "Untitled.canvas",
-    "计科/数字电路/tps.typ",
-    "计科/数据结构",
-    "计科/数字电路/门电路-1764856537561.webp",
-    "计科/数字电路/门电路-1764853232083.webp",
-    "计科/数字电路/门电路-1764838339406.webp",
-    "计科/数字电路/tp.typ",
-    "Untitled.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
+    "10 Projects/2026-1月集训题解/线段树模板.canvas",
+    "10 Projects/2026-1月集训题解/CSES Graph Paths II.md",
+    "10 Projects/2026-1月集训题解/矩阵快速幂.md",
+    "10 Projects/2026-1月集训题解/数学.canvas",
+    "CSES Throwing Dice.md",
     "Untitled 1.base",
-    "Untitled",
-    "未命名.canvas",
-    "归档/废案",
-    "计科/高数/高数复习/积分计算关系.canvas"
+    "Untitled.base",
+    "40Archive/daily/2026-01-22.md",
+    "10 Projects/2026-1月集训题解",
+    "40Archive/Archive_2026_1_22/temp/temp.md",
+    "40Archive/template/Daily.md",
+    "40Archive/template/Problem.md",
+    "40Archive/daily/2025-11-10.md",
+    "40Archive/daily/你你.md",
+    "Untitled 1.md",
+    "40Archive/template",
+    "40Archive/daily/daily.md",
+    "30 Cards",
+    "20 Atlas",
+    "10 Projects",
+    "00 Inbox",
+    "40Archive/daily/template",
+    "01Projects/01Projects.md",
+    "40Archive",
+    "40Archive/Archive_2026_1_22/temp/the art of command line.md",
+    "40Archive/Archive_2026_1_22/temp/一些有趣的东西.md",
+    "40Archive/Archive_2026_1_22/temp/singbox.md",
+    "40Archive/Archive_2026_1_22/temp/show and set.md",
+    "40Archive/Archive_2026_1_22/temp/typst.md",
+    "bar.md",
+    "typst notes.md",
+    "tp.md",
+    "40Archive/daily/2025-12-31.md",
+    "Untitled 2.md",
+    "Untitled 4.md",
+    "tptpp.md",
+    "poi.md",
+    "40Archive/Archive_2026_1_22/计科/高数/高数复习/积分计算关系.canvas",
+    "40Archive/daily/2026-01-01-1767198387303.webp",
+    "40Archive/daily/2026-01-01-1767263455686.webp",
+    "40Archive/daily/2025-12-12-1765557582534.webp",
+    "40Archive/daily/2025-12-12-1765557570344.webp",
+    "40Archive/daily/2025-12-12-1765557561879.webp",
+    "40Archive/daily/2025-12-12-1765557545878.webp",
+    "40Archive/Archive_2026_1_22/计科/数字电路/24.48触发器的电路结构和动作特点-1764495261317.webp",
+    "40Archive/Archive_2026_1_22/计科/数字电路/门电路-1764856537561.webp",
+    "40Archive/Archive_2026_1_22/计科/数字电路/门电路-1764853232083.webp",
+    "40Archive/Archive_2026_1_22/计科/数字电路/门电路-1764838339406.webp",
+    "未命名.canvas"
   ]
 }

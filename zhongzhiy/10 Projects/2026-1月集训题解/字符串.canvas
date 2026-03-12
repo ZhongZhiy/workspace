@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7c765151b5ee958e","type":"text","text":"字符串","x":-400,"y":-120,"width":250,"height":60},
+		{"id":"7b7ec688e537b7ad","x":-80,"y":-320,"width":250,"height":60,"type":"text","text":"KMP"},
+		{"id":"4845feb1ffed27e0","x":360,"y":-1040,"width":400,"height":400,"type":"file","file":"10 Projects/2026-1月集训题解/CSES Finding borders.md"}
+	],
+	"edges":[
+		{"id":"c488021efeb49c5c","fromNode":"7b7ec688e537b7ad","fromSide":"right","toNode":"4845feb1ffed27e0","toSide":"left"},
+		{"id":"242ca8d7a2589173","fromNode":"7c765151b5ee958e","fromSide":"right","toNode":"7b7ec688e537b7ad","toSide":"left"}
+	]
+}

@@ -78,7 +78,8 @@
 		{"id":"11355de5dc14edaf","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"941c65dafe827e58","toSide":"right"},
 		{"id":"9e1fc14f74df538b","fromNode":"69043960c5f671a0","fromSide":"left","toNode":"79f3c0210a5b8219","toSide":"right"},
 		{"id":"910f65f1403c837d","fromNode":"79f3c0210a5b8219","fromSide":"left","toNode":"41ceeaa15c96647b","toSide":"right"},
-		{"id":"1e1e1fe5b54ebbee","fromNode":"79f3c0210a5b8219","fromSide":"left","toNode":"de24ba756b3843ba","toSide":"right"}
+		{"id":"1e1e1fe5b54ebbee","fromNode":"79f3c0210a5b8219","fromSide":"left","toNode":"de24ba756b3843ba","toSide":"right"},
+		{"id":"bfab3fbaffd78b70","fromNode":"091033bdb367deda","fromSide":"bottom","toNode":"d9c79c5dc1a50cd7","toSide":"top","label":"费马多边形数"}
 	],
 	"metadata":{
 		"frontmatter":{},
@@ -88,7 +89,7 @@
 		{
 			"id":"091033bdb367deda",
 			"styleAttributes":{},
-			"text":"数学",
+			"text":"数论",
 			"type":"text",
 			"x":-480,
 			"y":-100,
@@ -103,13 +104,14 @@
 		{"file":"40Archive/Archive_2026_1_22/temp/Divisor Analysis(约数计算).md","id":"ffbccb8f9521b226","type":"file","x":-120,"y":-1160,"width":320,"height":160},
 		{"file":"40Archive/Archive_2026_1_22/temp/素数.md","id":"713ef5c5ae58f7e4","type":"file","x":-680,"y":-1080,"width":400,"height":400},
 		{"id":"441d6684650dfbd1","type":"file","file":"40Archive/Archive_2026_1_22/temp/组合.md","x":-1680,"y":-720,"width":400,"height":400},
-		{"id":"8186510bb5470a6a","type":"file","file":"40Archive/Archive_2026_1_22/temp/错排.md","x":-1760,"y":130,"width":400,"height":400},
 		{"id":"411026c37da9847b","type":"file","file":"40Archive/Archive_2026_1_22/temp/置换的型.md","x":-1600,"y":-1360,"width":400,"height":400},
 		{"id":"4c6b21145b29779e","type":"file","file":"40Archive/Archive_2026_1_22/temp/Permutation Order(康托展开).md","x":-1800,"y":-270,"width":400,"height":400},
 		{"id":"941c65dafe827e58","type":"file","file":"40Archive/Archive_2026_1_22/temp/卡特兰数.md","x":-1200,"y":-1680,"width":400,"height":400},
 		{"id":"69043960c5f671a0","type":"text","text":"组合","x":-925,"y":-270,"width":250,"height":60},
-		{"id":"79f3c0210a5b8219","x":-1680,"y":680,"width":400,"height":400,"type":"file","file":"10 Projects/2026-1月集训题解/矩阵快速幂.md"},
-		{"id":"41ceeaa15c96647b","type":"file","file":"CSES Throwing Dice.md","x":-2720,"y":680,"width":400,"height":400},
-		{"id":"de24ba756b3843ba","x":-2720,"y":1280,"width":400,"height":400,"type":"file","file":"10 Projects/2026-1月集训题解/CSES Graph Paths II.md"}
+		{"id":"79f3c0210a5b8219","type":"file","file":"10 Projects/2026-1月集训题解/矩阵快速幂.md","x":-1680,"y":680,"width":400,"height":400},
+		{"id":"41ceeaa15c96647b","type":"file","file":"10 Projects/2026-1月集训题解/CSES Throwing Dice.md","x":-2720,"y":680,"width":400,"height":400},
+		{"id":"de24ba756b3843ba","type":"file","file":"10 Projects/2026-1月集训题解/CSES Graph Paths II.md","x":-2720,"y":1280,"width":400,"height":400},
+		{"id":"d9c79c5dc1a50cd7","type":"file","file":"10 Projects/2026-1月集训题解/CSES Trangle Number Sum.md","x":-620,"y":600,"width":400,"height":400},
+		{"id":"8186510bb5470a6a","type":"file","file":"40Archive/Archive_2026_1_22/temp/错排.md","x":-1800,"y":200,"width":400,"height":400}
 	]
 }

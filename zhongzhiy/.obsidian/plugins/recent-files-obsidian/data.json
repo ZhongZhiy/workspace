@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "概率论",
+      "path": "40Archive/Archive_2026_1_22/计科/概率论/概率论.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "2026-01-12",
+      "path": "40Archive/daily/2026-01-12.md"
+    },
+    {
+      "basename": "2026-01-16",
+      "path": "40Archive/daily/2026-01-16.md"
+    },
+    {
+      "basename": "2026-01-26",
+      "path": "40Archive/daily/2026-01-26.md"
+    },
+    {
+      "basename": "DP",
+      "path": "10 Projects/2026-1月集训题解/DP.canvas"
+    },
+    {
+      "basename": "CSES Removal Game",
+      "path": "10 Projects/2026-1月集训题解/CSES Removal Game.md"
+    },
+    {
+      "basename": "CF Pizza Delivery",
+      "path": "10 Projects/2026-1月集训题解/CF Pizza Delivery.md"
+    },
+    {
+      "basename": "CSES Projects",
+      "path": "10 Projects/2026-1月集训题解/CSES Projects.md"
+    },
+    {
       "basename": "数学",
       "path": "10 Projects/2026-1月集训题解/数学.canvas"
     },
     {
-      "basename": "CSES Graph Paths II",
-      "path": "10 Projects/2026-1月集训题解/CSES Graph Paths II.md"
+      "basename": "Permutation Order(康托展开)",
+      "path": "40Archive/Archive_2026_1_22/temp/Permutation Order(康托展开).md"
+    },
+    {
+      "basename": "错排",
+      "path": "40Archive/Archive_2026_1_22/temp/错排.md"
+    },
+    {
+      "basename": "CSES Counting Towns",
+      "path": "10 Projects/2026-1月集训题解/CSES Counting Towns.md"
+    },
+    {
+      "basename": "联通块DP",
+      "path": "10 Projects/2026-1月集训题解/联通块DP.md"
     },
     {
       "basename": "CSES Throwing Dice",
-      "path": "CSES Throwing Dice.md"
+      "path": "10 Projects/2026-1月集训题解/CSES Throwing Dice.md"
+    },
+    {
+      "basename": "CSES Longest Common Subsequent",
+      "path": "10 Projects/2026-1月集训题解/CSES Longest Common Subsequent.md"
+    },
+    {
+      "basename": "CSES Edit Distance",
+      "path": "10 Projects/2026-1月集训题解/CSES Edit Distance.md"
+    },
+    {
+      "basename": "CSES Array Description",
+      "path": "10 Projects/2026-1月集训题解/CSES Array Description.md"
+    },
+    {
+      "basename": "CSES Book Shop",
+      "path": "10 Projects/2026-1月集训题解/CSES Book Shop.md"
+    },
+    {
+      "basename": "SG函数",
+      "path": "00 Inbox/SG函数.md"
+    },
+    {
+      "basename": "chatpter3",
+      "path": "10 Projects/hecto/chatpter3.md"
+    },
+    {
+      "basename": "CSES Coin conbinations",
+      "path": "10 Projects/2026-1月集训题解/CSES Coin conbinations.md"
+    },
+    {
+      "basename": "字符串",
+      "path": "10 Projects/2026-1月集训题解/字符串.canvas"
+    },
+    {
+      "basename": "CSES Finding borders",
+      "path": "10 Projects/2026-1月集训题解/CSES Finding borders.md"
+    },
+    {
+      "basename": "[Tutorial] Dp with connected components, a simple way to understand it",
+      "path": "00 Inbox/[Tutorial] Dp with connected components, a simple way to understand it.md"
+    },
+    {
+      "basename": "CSES Trangle Number Sum",
+      "path": "10 Projects/2026-1月集训题解/CSES Trangle Number Sum.md"
+    },
+    {
+      "basename": "CSES System of Linear Equations",
+      "path": "10 Projects/2026-1月集训题解/CSES System of Linear Equations.md"
+    },
+    {
+      "basename": "CSES Graph Paths II",
+      "path": "10 Projects/2026-1月集训题解/CSES Graph Paths II.md"
     },
     {
       "basename": "矩阵快速幂",
@@ -77,10 +177,6 @@
       "path": "40Archive/Archive_2026_1_22/chance/刷题模板.md"
     },
     {
-      "basename": "2026-01-12",
-      "path": "40Archive/daily/2026-01-12.md"
-    },
-    {
       "basename": "2026-01-07",
       "path": "40Archive/daily/2026-01-07.md"
     },
@@ -97,108 +193,12 @@
       "path": "40Archive/Archive_2026_1_22/chance/日记模板.md"
     },
     {
-      "basename": "Permutation Order(康托展开)",
-      "path": "40Archive/Archive_2026_1_22/temp/Permutation Order(康托展开).md"
-    },
-    {
       "basename": "矩阵快速幂",
       "path": "40Archive/Archive_2026_1_22/temp/矩阵快速幂.md"
     },
     {
       "basename": "置换的型",
       "path": "40Archive/Archive_2026_1_22/temp/置换的型.md"
-    },
-    {
-      "basename": "anki制卡",
-      "path": "40Archive/Archive_2026_1_22/temp/anki制卡.md"
-    },
-    {
-      "basename": "康托展开",
-      "path": "40Archive/Archive_2026_1_22/temp/康托展开.md"
-    },
-    {
-      "basename": "卡特兰数",
-      "path": "40Archive/Archive_2026_1_22/temp/卡特兰数.md"
-    },
-    {
-      "basename": "组合",
-      "path": "40Archive/Archive_2026_1_22/temp/组合.md"
-    },
-    {
-      "basename": "错排",
-      "path": "40Archive/Archive_2026_1_22/temp/错排.md"
-    },
-    {
-      "basename": "Locale 警告",
-      "path": "40Archive/Archive_2026_1_22/temp/Locale 警告.md"
-    },
-    {
-      "basename": "Range Updates and Sums",
-      "path": "40Archive/Archive_2026_1_22/temp/Range Updates and Sums.md"
-    },
-    {
-      "basename": "防止模溢出",
-      "path": "40Archive/Archive_2026_1_22/temp/防止模溢出.md"
-    },
-    {
-      "basename": "约数计算",
-      "path": "40Archive/Archive_2026_1_22/temp/约数计算.md"
-    },
-    {
-      "basename": "Divisor Analysis(约数计算)",
-      "path": "40Archive/Archive_2026_1_22/temp/Divisor Analysis(约数计算).md"
-    },
-    {
-      "basename": "next prime(素数判定)",
-      "path": "40Archive/Archive_2026_1_22/temp/next prime(素数判定).md"
-    },
-    {
-      "basename": "素数",
-      "path": "40Archive/Archive_2026_1_22/temp/素数.md"
-    },
-    {
-      "basename": "i128",
-      "path": "40Archive/Archive_2026_1_22/temp/i128.md"
-    },
-    {
-      "basename": "莫比乌斯函数",
-      "path": "40Archive/Archive_2026_1_22/temp/莫比乌斯函数.md"
-    },
-    {
-      "basename": "折腾电脑",
-      "path": "40Archive/Archive_2026_1_22/temp/折腾电脑.md"
-    },
-    {
-      "basename": "rust所知道",
-      "path": "40Archive/Archive_2026_1_22/temp/rust所知道.md"
-    },
-    {
-      "basename": "模运算",
-      "path": "40Archive/Archive_2026_1_22/temp/模运算.md"
-    },
-    {
-      "basename": "Counting Coprime Pairs",
-      "path": "40Archive/Archive_2026_1_22/temp/Counting Coprime Pairs.md"
-    },
-    {
-      "basename": "Common Divisors(最大共因数)",
-      "path": "40Archive/Archive_2026_1_22/temp/Common Divisors(最大共因数).md"
-    },
-    {
-      "basename": "Sum of Divisors(因子求和)",
-      "path": "40Archive/Archive_2026_1_22/temp/Sum of Divisors(因子求和).md"
-    },
-    {
-      "basename": "Polynomial Queries",
-      "path": "40Archive/Archive_2026_1_22/temp/Polynomial Queries.md"
-    },
-    {
-      "basename": "range query",
-      "path": "40Archive/Archive_2026_1_22/temp/range query.md"
-    },
-    {
-      "basename": "状态机DP",
-      "path": "40Archive/Archive_2026_1_22/temp/状态机DP.md"
     }
   ],
   "omittedPaths": [],

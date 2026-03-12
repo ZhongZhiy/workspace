@@ -1,16 +1,9 @@
 [
-  "obsidian-copy-block-link",
   "lazy-plugins",
   "obsidian-minimal-settings",
   "calendar",
   "highlightr-plugin",
   "obsidian-latex-suite",
   "templater-obsidian",
-  "recent-files-obsidian",
-  "image-converter",
-  "typst-for-obsidian",
-  "share-note",
-  "obsidian42-brat",
-  "code-styler",
-  "dataview"
+  "code-styler"
 ]

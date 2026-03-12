@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "baseFontSize": 27,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "American Typewriter"
+  "interfaceFontFamily": "American Typewriter",
+  "showRibbon": true
 }

@@ -4,42 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8aacac950067b7fc",
+        "id": "0ceb0f1b119c51ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3479d5a35f2360af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "10 Projects/2026-1月集训题解/数学.canvas",
-                "viewState": {
-                  "x": -300,
-                  "y": -52.61635220125788,
-                  "zoom": -1.6276753530895582
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学"
-            }
-          },
-          {
-            "id": "e494edcc08a14596",
+            "id": "254e69b3cddf0ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSES Throwing Dice.md",
+                "file": "00 Inbox/魔法使之夜.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CSES Throwing Dice"
+              "title": "魔法使之夜"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -62,7 +46,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -71,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:算法",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -90,16 +74,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          },
-          {
-            "id": "76c7542f98ece203",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
@@ -194,61 +168,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3479d5a35f2360af",
+  "active": "254e69b3cddf0ac7",
   "lastOpenFiles": [
-    "10 Projects/2026-1月集训题解/线段树模板.canvas",
-    "10 Projects/2026-1月集训题解/CSES Graph Paths II.md",
-    "10 Projects/2026-1月集训题解/矩阵快速幂.md",
+    "40Archive/daily/2026-03-06.md",
+    "00 Inbox/魔法使之夜.md",
+    "00 Inbox/剑与魔法与代码.md",
+    "00 Inbox/为什么冒险的不是我.md",
+    "00 Inbox/永不失落的故事.md",
+    "00 Inbox/抽象中间层.md",
+    "00 Inbox/ttp.md",
+    "40Archive/daily/2026-02-27.md",
+    "10 Projects/数据库/lecture1.md",
+    "40Archive/daily/2026-02-26.md",
+    "40Archive/template/Daily.md",
+    "40Archive/daily/2026-02-25.md",
+    "10 Projects/数据库/Lectore 1  Relational Model & Algebra.md",
+    "10 Projects/数据库/Lecture 5 Storage Models  Compression.md",
+    "40Archive/daily/2026-02-22.md",
+    "40Archive/daily/2026-02-11.md",
+    "10 Projects/2026-1月集训题解/Cow Dance Show.md",
+    "40Archive/Archive_2026_1_22/temp/康托展开.md",
+    "40Archive/daily/2026-02-09.md",
+    "10 Projects/数据库",
+    "40Archive/daily/2026-02-07.md",
+    "40Archive/daily/2026-02-06.md",
+    "10 Projects/hecto/chaper4 view.md",
+    "00 Inbox/tp.md",
+    "10 Projects/hecto/设计panic处理.md",
+    "10 Projects/hecto/set_panic.md",
+    "10 Projects/2026-1月集训题解/图论.canvas",
+    "10 Projects/2026-1月集训题解/非欧最短路.md",
+    "10 Projects/2026-1月集训题解/DP.canvas",
+    "10 Projects/读书笔记",
     "10 Projects/2026-1月集训题解/数学.canvas",
-    "CSES Throwing Dice.md",
+    "10 Projects/hecto",
+    "10 Projects/2026-1月集训题解/字符串.canvas",
+    "10 Projects/2026-1月集训题解/线段树模板.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "40Archive/daily/2026-01-22.md",
     "10 Projects/2026-1月集训题解",
-    "40Archive/Archive_2026_1_22/temp/temp.md",
-    "40Archive/template/Daily.md",
-    "40Archive/template/Problem.md",
-    "40Archive/daily/2025-11-10.md",
-    "40Archive/daily/你你.md",
-    "Untitled 1.md",
     "40Archive/template",
-    "40Archive/daily/daily.md",
     "30 Cards",
     "20 Atlas",
     "10 Projects",
-    "00 Inbox",
-    "40Archive/daily/template",
-    "01Projects/01Projects.md",
-    "40Archive",
-    "40Archive/Archive_2026_1_22/temp/the art of command line.md",
-    "40Archive/Archive_2026_1_22/temp/一些有趣的东西.md",
-    "40Archive/Archive_2026_1_22/temp/singbox.md",
-    "40Archive/Archive_2026_1_22/temp/show and set.md",
-    "40Archive/Archive_2026_1_22/temp/typst.md",
-    "bar.md",
-    "typst notes.md",
-    "tp.md",
-    "40Archive/daily/2025-12-31.md",
-    "Untitled 2.md",
-    "Untitled 4.md",
-    "tptpp.md",
-    "poi.md",
     "40Archive/Archive_2026_1_22/计科/高数/高数复习/积分计算关系.canvas",
     "40Archive/daily/2026-01-01-1767198387303.webp",
     "40Archive/daily/2026-01-01-1767263455686.webp",

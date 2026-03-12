@@ -19,7 +19,7 @@
         "startupType": "instant"
       },
       "obsidian-copy-block-link": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "dataview": {
         "startupType": "disabled"
@@ -43,7 +43,7 @@
         "startupType": "instant"
       },
       "image-converter": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-latex-suite": {
         "startupType": "instant"
@@ -58,13 +58,13 @@
         "startupType": "instant"
       },
       "note-refactor-obsidian": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "pdf-plus": {
         "startupType": "disabled"
       },
       "recent-files-obsidian": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-spaced-repetition-recall": {
         "startupType": "disabled"
@@ -112,16 +112,25 @@
         "startupType": "disabled"
       },
       "typst-for-obsidian": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "terminal": {
         "startupType": "instant"
       },
       "share-note": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "code-styler": {
         "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "disabled"
+      },
+      "inline-math": {
+        "startupType": "disabled"
+      },
+      "typst-mate": {
+        "startupType": "disabled"
       }
     },
     "loadOrder": []

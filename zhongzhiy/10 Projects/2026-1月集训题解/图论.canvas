@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"031b23f78f799b7b","x":-80,"y":-400,"width":250,"height":60,"type":"text","text":"最短路"},
+		{"id":"51203a63786ce6e8","x":-620,"y":-280,"width":250,"height":60,"type":"text","text":"图论"},
+		{"id":"d5bfe0ac4d9fef44","x":540,"y":-980,"width":400,"height":400,"type":"file","file":"10 Projects/2026-1月集训题解/非欧最短路.md"}
+	],
+	"edges":[
+		{"id":"d0a05661461c2352","fromNode":"51203a63786ce6e8","fromSide":"right","toNode":"031b23f78f799b7b","toSide":"left","label":"最短路"},
+		{"id":"394ccc9002e0c15e","fromNode":"031b23f78f799b7b","fromSide":"right","toNode":"d5bfe0ac4d9fef44","toSide":"left"}
+	]
+}

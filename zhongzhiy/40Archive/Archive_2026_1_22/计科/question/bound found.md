@@ -1,3 +1,7 @@
+---
+tags:
+  - finished
+---
 [题干](https://vjudge.net/problem/POJ-2566#author=0)
 ## 题意
 找数列中最接近给定值的子串和

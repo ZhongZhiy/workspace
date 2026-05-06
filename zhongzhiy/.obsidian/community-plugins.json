@@ -5,5 +5,7 @@
   "highlightr-plugin",
   "obsidian-latex-suite",
   "templater-obsidian",
-  "code-styler"
+  "code-styler",
+  "obsidian-kindle-plugin",
+  "extract-highlights-plugin"
 ]

@@ -6,6 +6,7 @@ tags:
   - 区间DP
   - 算法
   - DP
+  - finished
 status:
 difficulty: 🟡 中等
 link: https://cses.fi/problemset/result/16054550/

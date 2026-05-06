@@ -1,3 +1,7 @@
+---
+tags:
+  - finished
+---
 ### 问题 AG: Sliding Window Cost
 
 时间限制: 1.000 Sec  内存限制: 128 MB  

@@ -1,4 +1,4 @@
-```cpp]
+```cpp
 " --- 基础设置 ---
 syntax on           " 语法高亮
 set nu              " 显示行号

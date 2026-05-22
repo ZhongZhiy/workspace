@@ -131,6 +131,15 @@
       },
       "typst-mate": {
         "startupType": "disabled"
+      },
+      "extract-highlights-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-kindle-plugin": {
+        "startupType": "instant"
+      },
+      "kindle-highlights-import": {
+        "startupType": "disabled"
       }
     },
     "loadOrder": []

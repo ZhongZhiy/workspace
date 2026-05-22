@@ -8,52 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb0a3bf84e628a99",
+            "id": "56fb79a4a5ba8652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(曰）岸见一郎，（日）古贺史健-被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.md",
+                "file": "算法题讲解prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(曰）岸见一郎，（日）古贺史健-被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え"
+              "title": "算法题讲解prompt"
             }
           },
           {
-            "id": "d9052ac2ca2acdff",
+            "id": "a72d5258b86b0b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘录.md",
+                "file": "数据库第六章.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "摘录"
+              "title": "数据库第六章"
             }
           },
           {
-            "id": "bfcb38bf2ab4356f",
+            "id": "617bd3418eb925ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 为什么要睡觉.md",
+                "file": "40Archive/Archive_2026_1_22/计科/概率论/概率论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3 为什么要睡觉"
+              "title": "概率论"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "线段树",
+                "query": "概率论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,36 +213,41 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "bfcb38bf2ab4356f",
+  "active": "56fb79a4a5ba8652",
   "lastOpenFiles": [
-    "摘录.md",
-    "40Archive/daily/2026-05-06.md",
-    "Highlights for 摘录.md",
-    "Highlights for Highlights for 摘录.md",
-    "中被体现，就越是黑.md",
-    "3 为什么要睡觉.md",
-    "洛莉·戈特利布-也许你该找个人聊聊 = Maybe You Should Talk to Someone A Therapist, HER Therapist, and Our Lives Revealed著 张含笑 译).md",
-    "wizardforcel-鸟哥的Linux私房菜 基础学习篇 第四版.md",
-    "(曰）岸见一郎，（日）古贺史健-被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.md",
-    "安德烈·纪德-窄门.md",
-    "Dostoyevsky)-卡拉马佐夫兄弟【上海译文出品！著名翻译家荣如德经典译本，19世纪俄国大文豪陀思妥耶夫斯基的代表作之一，入选普京、梅德韦杰夫和希拉里的书.md",
-    "().md",
-    "10 Projects/2026-1月集训题解/联通块DP.md",
+    "Pasted image 20260516165201.png",
+    "40Archive/daily/2026-05-21.md",
     "海洋科学导论.md",
-    "10 Projects/2026-1月集训题解/CSES Counting Towns.md",
+    "40Archive/daily/2026-05-20.md",
+    "算法题讲解prompt.md",
+    "数据库第六章.md",
+    "40Archive/daily/2026-05-19.md",
+    "未命名.md",
+    "00 Inbox/SG函数.md",
+    "10 Projects/vim算法竞赛中配置.md",
+    "40Archive/daily/2026-05-17.md",
+    "40Archive/daily/2026-05-18.md",
+    "Pasted image 20260517112711.png",
+    "00 Inbox/ToDo.md",
+    "Todo.md",
+    "10 Projects/doing.md",
+    "temp.md",
+    "安德烈·纪德-窄门.md",
+    "(曰）岸见一郎，（日）古贺史健-被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.md",
+    "Dostoyevsky)-卡拉马佐夫兄弟【上海译文出品！著名翻译家荣如德经典译本，19世纪俄国大文豪陀思妥耶夫斯基的代表作之一，入选普京、梅德韦杰夫和希拉里的书.md",
+    "洛莉·戈特利布-也许你该找个人聊聊 = Maybe You Should Talk to Someone A Therapist, HER Therapist, and Our Lives Revealed著 张含笑 译).md",
+    "40Archive/Archive_2026_1_22/计科/概率论/概率论.md",
+    "40Archive/Archive_2026_1_22/计科/概率论/联合分布.md",
+    "第七章数据库设计.md",
+    "Pasted image 20260516164011.png",
+    "Pasted image 20260516153832.png",
+    "Pasted image 20260516153707.png",
+    "Pasted image 20260516153312.png",
+    "40Archive/daily/2026-05-15.md",
+    "3 为什么要睡觉.md",
+    "40Archive/daily/2026-05-14.md",
     "10 Projects/2026-1月集训题解/DP.canvas",
-    "10 Projects/2026-1月集训题解/CSES Removal Game.md",
-    "10 Projects/2026-1月集训题解/CSES Mountain Range.md",
     "10 Projects/2026-1月集训题解/图论.canvas",
-    "10 Projects/2026-1月集训题解/Cow Dance Show.md",
-    "40Archive/Archive_2026_1_22/计科/unix 大学教程/unix 大学教程.md",
-    "40Archive/Archive_2026_1_22/计科/python环境.md",
-    "40Archive/Archive_2026_1_22/计科/C++和算法/Permutations（构造）.md",
-    "40Archive/Archive_2026_1_22/计科/C++和算法/初始化.md",
-    "40Archive/Archive_2026_1_22/计科/C++和算法/bitset.md",
-    "40Archive/Archive_2026_1_22/计科/C++和算法/lambda表达式简介（匿名函数）.md",
-    "40Archive/Archive_2026_1_22/计科/C++和算法/stringstream.md",
-    "40Archive/Archive_2026_1_22/计科/C++和算法/two sets(划分）.md",
     "Pasted image 20260329165929.png",
     "Pasted image 20260329165816.png",
     "10 Projects/java",
@@ -263,12 +266,6 @@
     "40Archive/Archive_2026_1_22/计科/高数/高数复习/积分计算关系.canvas",
     "40Archive/daily/2026-01-01-1767198387303.webp",
     "40Archive/daily/2026-01-01-1767263455686.webp",
-    "40Archive/daily/2025-12-12-1765557582534.webp",
-    "40Archive/daily/2025-12-12-1765557570344.webp",
-    "40Archive/daily/2025-12-12-1765557561879.webp",
-    "40Archive/daily/2025-12-12-1765557545878.webp",
-    "40Archive/Archive_2026_1_22/计科/数字电路/24.48触发器的电路结构和动作特点-1764495261317.webp",
-    "40Archive/Archive_2026_1_22/计科/数字电路/门电路-1764856537561.webp",
     "未命名.canvas"
   ]
 }

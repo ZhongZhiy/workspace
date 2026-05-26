@@ -4,52 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa78f65fe24051f",
+        "id": "27995b33d6a7c049",
         "type": "tabs",
         "children": [
           {
-            "id": "56fb79a4a5ba8652",
+            "id": "aa4ffa34ab124bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法题讲解prompt.md",
+                "file": "00 Inbox/备忘录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "算法题讲解prompt"
-            }
-          },
-          {
-            "id": "a72d5258b86b0b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库第六章.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "数据库第六章"
-            }
-          },
-          {
-            "id": "617bd3418eb925ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40Archive/Archive_2026_1_22/计科/概率论/概率论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "概率论"
+              "title": "备忘录"
             }
           }
         ]
@@ -197,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,43 +184,46 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "56fb79a4a5ba8652",
+  "active": "aa4ffa34ab124bd6",
   "lastOpenFiles": [
-    "Pasted image 20260516165201.png",
+    "40Archive/daily/2026-05-25.md",
+    "40Archive/daily/2026-05-26.md",
+    "第三章关系数据库.md",
+    "Pasted image 20260526103543.png",
+    "Pasted image 20260526102903.png",
+    "Pasted image 20260526102849.png",
+    "Pasted image 20260526102442.png",
+    "Pasted image 20260526102342.png",
+    "Pasted image 20260526102218.png",
+    "Pasted image 20260526101821.png",
+    "Pasted image 20260526101609.png",
+    "Pasted image 20260525152743.png",
+    "Pasted image 20260525152038.png",
+    "未命名 2.md",
+    "未命名 1.md",
+    "40Archive/daily/2026-05-24.md",
+    "日常安排prompt.md",
+    "40Archive/Archive_2026_1_22/计科/概率论/概率论.md",
+    "数据库第六章.md",
+    "算法题讲解prompt.md",
+    "看不见的城市.md",
+    "摘录.md",
+    "独处.md",
+    "爱之后的爱.md",
+    "客栈.md",
+    "当我真正开始爱自己.md",
+    "40Archive/daily/2026-05-23.md",
     "40Archive/daily/2026-05-21.md",
     "海洋科学导论.md",
     "40Archive/daily/2026-05-20.md",
-    "算法题讲解prompt.md",
-    "数据库第六章.md",
     "40Archive/daily/2026-05-19.md",
     "未命名.md",
     "00 Inbox/SG函数.md",
     "10 Projects/vim算法竞赛中配置.md",
     "40Archive/daily/2026-05-17.md",
     "40Archive/daily/2026-05-18.md",
-    "Pasted image 20260517112711.png",
-    "00 Inbox/ToDo.md",
-    "Todo.md",
-    "10 Projects/doing.md",
-    "temp.md",
-    "安德烈·纪德-窄门.md",
-    "(曰）岸见一郎，（日）古贺史健-被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.md",
-    "Dostoyevsky)-卡拉马佐夫兄弟【上海译文出品！著名翻译家荣如德经典译本，19世纪俄国大文豪陀思妥耶夫斯基的代表作之一，入选普京、梅德韦杰夫和希拉里的书.md",
-    "洛莉·戈特利布-也许你该找个人聊聊 = Maybe You Should Talk to Someone A Therapist, HER Therapist, and Our Lives Revealed著 张含笑 译).md",
-    "40Archive/Archive_2026_1_22/计科/概率论/概率论.md",
-    "40Archive/Archive_2026_1_22/计科/概率论/联合分布.md",
-    "第七章数据库设计.md",
-    "Pasted image 20260516164011.png",
-    "Pasted image 20260516153832.png",
-    "Pasted image 20260516153707.png",
-    "Pasted image 20260516153312.png",
-    "40Archive/daily/2026-05-15.md",
-    "3 为什么要睡觉.md",
-    "40Archive/daily/2026-05-14.md",
     "10 Projects/2026-1月集训题解/DP.canvas",
     "10 Projects/2026-1月集训题解/图论.canvas",
-    "Pasted image 20260329165929.png",
-    "Pasted image 20260329165816.png",
     "10 Projects/java",
     "10 Projects/数据库",
     "10 Projects/读书笔记",
@@ -264,8 +238,6 @@
     "30 Cards",
     "20 Atlas",
     "40Archive/Archive_2026_1_22/计科/高数/高数复习/积分计算关系.canvas",
-    "40Archive/daily/2026-01-01-1767198387303.webp",
-    "40Archive/daily/2026-01-01-1767263455686.webp",
     "未命名.canvas"
   ]
 }

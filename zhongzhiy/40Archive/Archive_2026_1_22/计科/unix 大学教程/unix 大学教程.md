@@ -246,7 +246,9 @@ bash默认0代表标准输入，1代表标准输出，2代表标准错误，因�
 `command 0< inputfile`
 其中`0<`和`<`一样，`1>`和`>`一样，但是标准错误流只能使用`2>`
 
-重定向到同一个文件`command 1> output 2>&1`搞不懂
+重定向到同一个文件`command 1> output 2>&1`搞不懂 , 现在用 `command &> ouput`
+
+
 ## 子shell
 子shell会继承父shell的环境，但是子shell做的修改不会保留
 使用`(cd command)`就是可以在不打开子shell的情况下运行zishell命令

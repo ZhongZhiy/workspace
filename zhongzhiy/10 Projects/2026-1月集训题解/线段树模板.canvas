@@ -11,8 +11,8 @@
 	},
 	"nodes":[
 		{"height":60,"id":"390c0751b268942d","text":"线段树","type":"text","width":250,"x":-1000,"y":-160},
-		{"file":"40Archive/Archive_2026_1_22/temp/range query.md","height":400,"id":"baf9c1366269d7cb","type":"file","width":400,"x":-280,"y":240},
-		{"file":"40Archive/Archive_2026_1_22/temp/Range Updates and Sums.md","height":400,"id":"d7f7213dbf102b27","type":"file","width":400,"x":-280,"y":-1640},
-		{"file":"40Archive/Archive_2026_1_22/temp/Polynomial Queries.md","height":400,"id":"62eaf604d897df56","type":"file","width":400,"x":240,"y":-680}
+		{"file":"40 Archive/Archive_2026_1_22/temp/range query.md","height":400,"id":"baf9c1366269d7cb","type":"file","width":400,"x":-280,"y":240},
+		{"file":"40 Archive/Archive_2026_1_22/temp/Range Updates and Sums.md","height":400,"id":"d7f7213dbf102b27","type":"file","width":400,"x":-280,"y":-1640},
+		{"file":"40 Archive/Archive_2026_1_22/temp/Polynomial Queries.md","height":400,"id":"62eaf604d897df56","type":"file","width":400,"x":240,"y":-680}
 	]
 }

@@ -11,10 +11,15 @@
             "id": "fbc147f051bd17b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "40Archive/daily/2026-05-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-05-30"
             }
           },
           {
@@ -23,92 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/linux相关/fish 流.md",
+                "file": "40Archive/daily/2026-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fish 流"
-            }
-          },
-          {
-            "id": "a32d100aa92200f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/看不见的城市.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "看不见的城市"
-            }
-          },
-          {
-            "id": "81cc0faef1f65187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡片prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "卡片prompt"
-            }
-          },
-          {
-            "id": "9c26527b8c6a4112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡片prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "卡片prompt"
-            }
-          },
-          {
-            "id": "adef8d30da3d2ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡片prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "卡片prompt"
-            }
-          },
-          {
-            "id": "0fb692c182541aef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法题讲解prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "算法题讲解prompt"
+              "title": "2026-06-02"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +61,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -165,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d83f0cf9d0bb547",
@@ -258,60 +189,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "9c26527b8c6a4112",
+  "active": "9f5cf21ac79ef1e9",
   "lastOpenFiles": [
-    "正则表达式修改括号和换行.md",
-    "卡片prompt.md",
-    "算法题讲解prompt.md",
-    "ttttpppp.md",
-    "00 Inbox/看不见的城市.md",
-    "00 Inbox/当我真正开始爱自己.md",
-    "3 为什么要睡觉.md",
-    "安德烈·纪德-窄门.md",
-    "20 Areas/linux相关/unix 大学教程/unix 大学教程.md",
-    "fish配置.md",
-    "使用 xdg-ninja管理home命令.md",
-    "使用chezmoi管理dotfile.md",
-    "20 Areas/linux相关/fish 流.md",
-    "20 Areas/linux相关/unix 大学教程/nvim配置过程/nvim配置过程.md",
-    "20 Areas/linux相关/unix 大学教程/修复pacman.md",
-    "20 Areas/linux相关/unix 大学教程/管理电脑配置.md",
-    "20 Areas/linux相关/unix 大学教程/kquitapp5 plasmashell && kstart5 plasmashell.md",
-    "20 Areas/linux相关/unix 大学教程/fc-list.md",
-    "20 Areas/linux相关/unix 大学教程/终端文本复制到系统浏览器.md",
-    "20 Areas/linux相关/unix 大学教程/XDG 用户目录配置文件.md",
-    "20 Areas/linux相关/unix 大学教程/linux指定服务器.md",
-    "20 Areas/linux相关/unix 大学教程/tmux快捷键.md",
-    "20 Areas/linux相关/unix 大学教程/vim寄存器.md",
-    "20 Areas/linux相关/unix 大学教程/nvim自动切换中英文.md",
-    "20 Areas/linux相关/unix 大学教程/使用git同步电脑配置.md",
-    "20 Areas/linux相关/unix 大学教程/设置系统挂起与休眠模式.md",
-    "20 Areas/linux相关",
-    "30 Resources/未命名",
-    "30 Resources",
-    "20 Areas",
+    "40Archive/daily/2026-05-27.md",
+    "40Archive/daily/2026-06-02.md",
     "Pasted image 20260517112711.png",
+    "数据库第六章.md",
+    "40Archive/Archive_2026_1_22/计科/unix 大学教程/unix 大学教程.md",
+    "第三章关系数据库.md",
+    "数据库复习.md",
     "Pasted image 20260529110233.png",
+    "40Archive/daily/2026-05-30.md",
+    "第七章数据库设计.md",
+    "40Archive/daily/2026-05-29.md",
+    "算法题讲解prompt.md",
+    "第五章数据库安全.md",
     "Pasted image 20260529095245.png",
     "Pasted image 20260529095028.png",
     "Pasted image 20260529094928.png",
     "Pasted image 20260529094452.png",
+    "40Archive/Archive_2026_1_22/temp/the art of command line.md",
+    "40Archive/Archive_2026_1_22/计科/归档/阶段性计划/2025-5-1五一.md",
+    "40Archive/Archive_2026_1_22/recording/ACGN资源.md",
+    "40Archive/Archive_2026_1_22/temp/linux.md",
+    "40Archive/Archive_2026_1_22/temp/linux 命令.md",
+    "40Archive/Archive_2026_1_22/temp/linux折腾记.md",
     "Pasted image 20260527201942.png",
     "Pasted image 20260527200954.png",
     "Pasted image 20260527200626.png",
     "Pasted image 20260527200502.png",
+    "00 Inbox/ToDo.md",
+    "00 Inbox/备忘录.md",
+    "40Archive/daily/2026-05-25.md",
+    "40Archive/daily/2026-05-26.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "40Archive/daily/2026-05-24.md",
+    "日常安排prompt.md",
+    "40Archive/Archive_2026_1_22/计科/概率论/概率论.md",
     "10 Projects/2026-1月集训题解/DP.canvas",
     "10 Projects/2026-1月集训题解/图论.canvas",
     "10 Projects/java",
@@ -323,7 +250,11 @@
     "10 Projects/2026-1月集训题解/线段树模板.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "40 Archive/Archive_2026_1_22/计科/高数/高数复习/积分计算关系.canvas",
+    "10 Projects/2026-1月集训题解",
+    "40Archive/template",
+    "30 Cards",
+    "20 Atlas",
+    "40Archive/Archive_2026_1_22/计科/高数/高数复习/积分计算关系.canvas",
     "未命名.canvas"
   ]
 }

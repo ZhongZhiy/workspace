@@ -53,13 +53,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttttpppp.md",
+                "file": "卡片prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ttttpppp"
+              "title": "卡片prompt"
+            }
+          },
+          {
+            "id": "9c26527b8c6a4112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "卡片prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "卡片prompt"
             }
           },
           {
@@ -93,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,10 +270,13 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "81cc0faef1f65187",
+  "active": "9c26527b8c6a4112",
   "lastOpenFiles": [
-    "00 Inbox/看不见的城市.md",
+    "正则表达式修改括号和换行.md",
+    "卡片prompt.md",
+    "算法题讲解prompt.md",
     "ttttpppp.md",
+    "00 Inbox/看不见的城市.md",
     "00 Inbox/当我真正开始爱自己.md",
     "3 为什么要睡觉.md",
     "安德烈·纪德-窄门.md",
@@ -280,9 +298,6 @@
     "20 Areas/linux相关/unix 大学教程/nvim自动切换中英文.md",
     "20 Areas/linux相关/unix 大学教程/使用git同步电脑配置.md",
     "20 Areas/linux相关/unix 大学教程/设置系统挂起与休眠模式.md",
-    "20 Areas/linux相关/unix 大学教程/vim_tab.md",
-    "20 Areas/linux相关/unix 大学教程/默认文件保存位置.md",
-    "20 Areas/未命名.md",
     "20 Areas/linux相关",
     "30 Resources/未命名",
     "30 Resources",

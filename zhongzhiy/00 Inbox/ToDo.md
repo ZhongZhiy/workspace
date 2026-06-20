@@ -6,3 +6,4 @@ toWrite
 阅读博客[Train Better with ThemeCPs (+ Website)! - Codeforces](https://codeforces.com/blog/entry/136704)
 [Bits That Changed My CP Thinking — (Beginner Part) - Codeforces](https://codeforces.com/blog/entry/153600)
 矩阵快速幂[Dashboard - Matrix Exponentiation - Codeforces](https://codeforces.com/gym/102644)
+读背包九讲

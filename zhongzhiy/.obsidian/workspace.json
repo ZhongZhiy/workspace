@@ -43,17 +43,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "40 Archive/daily/2026-06-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "2026-06-30"
+            }
+          },
+          {
+            "id": "2b34a5da0f58cd96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Archive/daily/2026-01-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "8bcdc1a60cdaebd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Archive/daily/2026-07-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-01"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rust",
+                "query": "wsl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +136,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,11 +245,19 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "8e07d249e92966d3",
+  "active": "8bcdc1a60cdaebd9",
   "lastOpenFiles": [
-    "让Google收录我的博客.md",
-    "未命名 2.md",
+    "wsl 压缩方法.md",
+    "40 Archive/daily/2026-07-01.md",
+    "40 Archive/daily/2026-01-30.md",
     "算法题讲解prompt.md",
+    "项目学习prompt.md",
+    "未命名 3.md",
+    "40 Archive/daily/2026-06-30.md",
+    "40 Archive/daily/2026-06-29.md",
+    "规训与惩罚.md",
+    "未命名 2.md",
+    "让Google收录我的博客.md",
     "未命名 1.md",
     "Claude 配置第三方api.md",
     "rust开二维vec.md",
@@ -234,14 +273,6 @@
     "40 Archive/daily/2025-06-17.md",
     "40 Archive/daily/2025-06-25.md",
     "40 Archive/daily/2026-06-02.md",
-    "40 Archive/daily/2026-06-01.md",
-    "40 Archive/daily/2026-06-08.md",
-    "40 Archive/daily/2026-06-15.md",
-    "40 Archive/daily/2026-06-16.md",
-    "40 Archive/daily/2026-06-17.md",
-    "40 Archive/daily/2026-06-25.md",
-    "rust 车票系统.md",
-    "网络响应.md",
     "40 Archive/daily/2026-01-01-1767198387303.webp",
     "Pasted image 20260517112711.png",
     "Pasted image 20260529110233.png",

@@ -22,7 +22,7 @@
         "startupType": "disabled"
       },
       "dataview": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "new-tab-default-page": {
         "startupType": "disabled"
@@ -31,7 +31,7 @@
         "startupType": "disabled"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "disabled"
+        "startupType": "short"
       },
       "folder-notes": {
         "startupType": "long"

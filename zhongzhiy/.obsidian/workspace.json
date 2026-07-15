@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27995b33d6a7c049",
+        "id": "d871326574c6a7ff",
         "type": "tabs",
         "children": [
           {
-            "id": "d102b255ebda456b",
+            "id": "55572d4c1d0c93bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,199 +23,22 @@
             }
           },
           {
-            "id": "19adfa91e3742b80",
+            "id": "ef41a06e0b555d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "让Google收录我的博客.md",
-                "mode": "source",
+                "file": "未命名 7.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "让Google收录我的博客"
-            }
-          },
-          {
-            "id": "8e07d249e92966d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Archive/daily/2026-06-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-30"
-            }
-          },
-          {
-            "id": "2b34a5da0f58cd96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Archive/daily/2026-01-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-30"
-            }
-          },
-          {
-            "id": "8bcdc1a60cdaebd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/让Google收录我的博客.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "让Google收录我的博客"
-            }
-          },
-          {
-            "id": "1d111a12b935a53e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Archive/daily/2026-07-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-05"
-            }
-          },
-          {
-            "id": "49e6d8b350d2d3d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 4"
-            }
-          },
-          {
-            "id": "d11b069cf46f16cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 5"
-            }
-          },
-          {
-            "id": "3867ce03a4d5e746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 6"
-            }
-          },
-          {
-            "id": "acde99eaf5da152b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpu prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cpu prompt"
-            }
-          },
-          {
-            "id": "bf7d570c228e1468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Archive/daily/2026-07-07.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-07"
-            }
-          },
-          {
-            "id": "55c15dc393c736f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Archive/daily/2026-07-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-08"
-            }
-          },
-          {
-            "id": "787e1bcdace5cbab",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-10 15.48.45.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-10 15.48.45.excalidraw"
-            }
-          },
-          {
-            "id": "d7d71637ccd401ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Archive/daily/2026-07-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-02"
+              "title": "未命名 7"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d83f0cf9d0bb547",
@@ -360,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,36 +202,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "787e1bcdace5cbab",
+  "active": "ef41a06e0b555d5c",
   "lastOpenFiles": [
-    "40 Archive/daily/2026-07-08.md",
-    "Excalidraw/Drawing 2026-07-10 15.48.45.excalidraw.md",
-    "40 Archive/daily/2026-07-07.md",
     "算法题讲解prompt.md",
-    "枪王黑泽.md",
-    "40 Archive/daily/2026-07-06.md",
-    "混沌的正义.md",
+    "未命名 7.md",
+    "40 Archive/daily/2026-07-15.md",
+    "40 Archive/daily/2026-07-14.md",
+    "40 Archive/daily/2026-07-13.md",
+    "40 Archive/daily/2026-07-07.md",
     "cpu prompt.md",
     "未命名 6.md",
     "未命名 5.md",
     "未命名 4.md",
     "40 Archive/daily/2026-07-05.md",
+    "00 Inbox/让Google收录我的博客.md",
+    "40 Archive/daily/2026-01-30.md",
+    "40 Archive/daily/2026-06-30.md",
+    "40 Archive/daily/2026-07-08.md",
+    "40 Archive/daily/2026-07-09.md",
+    "40 Archive/daily/2026-07-10.md",
+    "40 Archive/daily/2026-07-11.md",
+    "枪王黑泽.md",
+    "40 Archive/daily/2026-07-02.md",
+    "Excalidraw/Drawing 2026-07-10 15.48.45.excalidraw.md",
+    "40 Archive/daily/2026-07-06.md",
+    "混沌的正义.md",
     "40 Archive/daily/2026-07-04.md",
     "摘录.md",
     "添加全局参数.md",
-    "00 Inbox/让Google收录我的博客.md",
-    "rust开二维vec.md",
-    "Excalidraw/Drawing 2026-07-02 21.23.28.excalidraw.md",
     "未命名.canvas",
-    "40 Archive/daily/2026-07-02.md",
     "Excalidraw",
-    "未命名 2.md",
-    "40 Archive/daily/2026-07-01.md",
-    "wsl 压缩方法.md",
-    "40 Archive/daily/2026-01-30.md",
-    "项目学习prompt.md",
-    "未命名 3.md",
-    "40 Archive/daily/2026-06-30.md",
     "40 Archive/daily/2026-01-01-1767198387303.webp",
     "Pasted image 20260517112711.png",
     "Pasted image 20260529110233.png",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "怎么解题.md",
+                "file": "emacs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "怎么解题"
+              "title": "emacs"
             }
           }
         ]
@@ -161,13 +161,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "extract-highlights-plugin:Extract Highlights": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "extract-highlights-plugin:Extract Highlights": false
     }
   },
   "active": "ca7eff922a572f61",
   "lastOpenFiles": [
-    "emacs.md",
     "卡片prompt.md",
     "计科/高数/高数复习/第一类曲线积分.md",
     "daily/2025-06-11.md",
@@ -193,6 +191,7 @@
     "temp/linux.md",
     "计科/C++/图论.md",
     "计科/C++/差分.md",
+    "temp/键盘操作.md",
     "ob_revlog.csv",
     "tracked_files.json",
     "计科/高数/高数复习/积分计算关系.canvas",

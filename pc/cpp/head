@@ -1,0 +1,46 @@
+#pragma GCC optimize("Ofast")
+#include<bits/stdc++.h>
+using namespace std;
+/*
+(\_/)                /\_/\         (o_o)
+( ._.)   \(o_o)/    (-.-  )       /(   )\
+/ >*                /< *< \        ^^ ^^
+*/
+#define DEBUG
+#ifdef DEBUG
+#define de(x) cout << (#x) << "=" << (x) << endl;
+#define de2(x, y) cout << (#x) << " " << (#y) << " = " << (x) << " " << (y) << endl;
+#else
+#define de(x)
+#define de2(x, y)
+#endif
+#define endl '\n'
+#define fi(n) for(int i = 1;i <= n; ++i)
+#define fi0(n) for(int i = 0;i < n; ++i)
+#define fj(n) for(int j = 1;j <= n; ++j)
+#define fj0(n) for(int j = 0;j < n; ++j)
+#define all(x) (x).begin(), (x).end()
+#define hello ios::sync_with_stdio(0); cin.tie(0);cout.tie(0);
+#define world return 0;
+#define int long long
+#define F first
+#define S second
+typedef __int128 i128;
+typedef vector<int> vi;
+typedef pair<int, int> pii;
+typedef long long ll;
+
+constexpr int N = 1e5;
+
+
+void solve(){
+}
+
+signed main() {
+    hello;
+    //freopen("cpp/input.txt", "r", stdin);
+    int t = 1;
+    //cin >> t;
+    while(t--) solve();
+    return 0;
+}

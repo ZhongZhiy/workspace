@@ -1,0 +1,15 @@
+
+[
+  {
+    "label": "Build C++",
+    "command": "g++",
+    "args": [
+      "-g",
+      "$ZED_FILE",
+      "-o",
+      "$ZED_DIRNAME/$ZED_STEM"
+    ],
+    "use_new_terminal": false,
+    "reveal": "always"
+  }
+]

@@ -1,7 +1,7 @@
 [
     {
         "label": "complie and run",
-        "command": "fortune -s | cowsay | lolcat && g++ -Wall -g -o $ZED_STEM $ZED_FILE && printf \"compile success of %s\n\" $ZED_FILE && echo \"------------\n\"&& ./$ZED_STEM",
+        "command": " g++ -Wall -g -o $ZED_STEM $ZED_FILE && printf \"compile success of %s\n\" $ZED_FILE && echo \"------------\n\"&& ./$ZED_STEM",
         //Whether to use a new terminal tab or reuse the existing one to spawn the process
         "use_new_terminal": false,
         //Whether to allow multiple instances of the same task to run or rather wait for the existing ones to finish
@@ -30,8 +30,8 @@
         "show_command": false
     },
     {
-        "label": "complie and run rust",
-        "command": "fortune -s | cowsay | lolcat && rustc -o $ZED_STEM $ZED_FILE && echo \"------------\"  &&  ./$ZED_STEM",
+        "label": "send to anki",
+        "command": "anki-cli --file $ZED_FILE && printf \"send to anki success!\"",
         //Whether to use a new terminal tab or reuse the existing one to spawn the process
         "use_new_terminal": false,
         //Whether to allow multiple instances of the same task to run or rather wait for the existing ones to finish
@@ -58,5 +58,17 @@
 
         // 是否在终端输出中显示具体的命令行内容，默认为 true
         "show_command": false
+    },
+    {
+      "label": "Build C++",
+      "command": "g++",
+      "args": [
+        "-g",
+        "$ZED_FILE",
+        "-o",
+        "$ZED_DIRNAME/$ZED_STEM"
+      ],
+      "use_new_terminal": false,
+      "reveal": "always"
     }
 ]

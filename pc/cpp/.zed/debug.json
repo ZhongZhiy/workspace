@@ -1,0 +1,10 @@
+[
+    {
+        "label": "Debug C++ (LLDB)",
+        "adapter": "lldb",
+        "request": "launch",
+        "program": "$ZED_DIRNAME/$ZED_STEM",
+        "args": [],
+        "cwd": "$ZED_WORKTREE_ROOT"
+    }
+]

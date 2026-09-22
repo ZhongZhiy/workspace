@@ -29,6 +29,7 @@ typedef __int128 i128;
 typedef vector<int> vi;
 typedef pair<int, int> pii;
 typedef long long ll;
+typedef long double ld;
 
 constexpr int N = 1e5;
 

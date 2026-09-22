@@ -19,3 +19,14 @@ zhongzhiy/.obsidian/appearance.json
 # 如果你想在不同设备上使用完全不同的插件组合、快捷键或主题，
 # 甚至可以考虑直接忽略整个配置文件夹（不推荐，除非你喜欢每台设备独立配置）：
 # .obsidian/
+
+*.out
+
+main.*
+tp.*
+in.txt
+output.txt
+
+
+**/.stversions/
+

@@ -1,0 +1,62 @@
+#+TITLE: GTD 任务管理
+#+TODO: TODO(t) NEXT(n) DOING(i) | DONE(d) CANCELED(c)
+#+TAGS: coding(c) reading(r) errands(e) routine(h)
+
+* 🎯 当前项目 (Projectsj
+** Java Spring Boot 学习
+*** DONE 阅读 IoC (控制反转) 相关的开发与教程                   :reading:coding:
+    CLOSED: [2026-09-15 Tue 12:43]
+*** DONE 阅读 Java 数据库模块教程并手敲代码演练                 :reading:coding:
+    SCHEDULED: <2026-09-16 Wed 14:00> CLOSED: [2026-09-16 Wed 14:35]
+
+
+** 算法与刷题
+*** DONE 刷完atcoder DP 题单
+    CLOSED: [2026-08-02 Sun 10:01]
+    - Note taken on [2026-08-01 Sat 08:19] \\
+      还剩最后8个
+**** TODO [[file:./insert_dp.md][插入DP 题目]] :coding:
+*** TODO [[file:./pcTodo/pre_suf.md][前后缀预处理技巧处理]] :coding:
+*** TODO [[file:./pcTodo/aifuson.md][艾弗森括号的应用]] :coding:
+*** TODO [[file:./pcTodo/vand.md][范德蒙德恒等式相关讲解]] :coding:
+*** TODO [[file:./pcTodo/k_th.md][第k小相关例题]] :coding:
+*** TODO 学习树上启发式合并 :coding:
+**** DONE 整理3个例题, [[file:./dus_on_tree.md][dus on tree]]
+     CLOSED: [2026-08-17 Mon 20:03]
+*** TODO 写3维背包和四维背包问题                                        :coding:
+*** TODO 补题 abc (从 refile 移入) :coding:
+
+* 📅 日常与习惯 (Habits & Routines)
+** TODO 每天刷题3+ :routine:coding:
+   SCHEDULED: <2026-09-14 Mon 20:00 .+1d>
+*** DOING 补题 24年 杭州
+    CLOSED: [2026-09-21 Mon 13:39]
+    :LOGBOOK:
+    CLOCK: [2026-09-21 Mon 13:39]--[2026-09-21 Mon 17:56] => 4:17
+    :END:
+** TODO 复习 Anki :routine:reading:
+   SCHEDULED: <2026-09-14 Mon 20:00 .+1d>
+   :LOGBOOK:
+   - Note taken on [2026-07-28 Tue 08:37] \\
+     review 30 mins to 1h
+** TODO 早睡觉 (23:00前) :routine:
+   SCHEDULED: <2026-09-14 Mon 23:00 .+1d>
+** TODO 每周复盘与反思 :routine:
+   SCHEDULED: <2026-09-20 Sun 22:00 .+1w>
+
+** TODO 学 *计算机网络* 网课 :routine:
+*** DONE 计网第二章2.1
+    SCHEDULED: <2026-09-17 Thu> CLOSED: [2026-09-18 Fri 22:40]
+*** 计网第二章2.2
+    SCHEDULED: <2026-09-18 Fri 20:00>
+    :LOGBOOK:
+    CLOCK: [2026-09-22 Tue 10:08]--[2026-09-22 Tue 10:50] => 0:42
+    CLOCK: [2026-09-19 Sat 22:08]--[2026-09-19 Sat 22:16] => 0:08
+    :END:
+*** DOING 计网第二章2.3-2.5
+    :LOGBOOK:
+    CLOCK: [2026-09-22 Tue 10:51]--[2026-09-22 Tue 12:05] => 1:14
+    :END:
+*** TODO 复习计网第一章和第二章2.1
+** TODO 练琴                                                           :routine:
+* 🛒 杂项与单步任务 (Single Actions)

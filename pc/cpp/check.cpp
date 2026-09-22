@@ -1,35 +1,62 @@
-// checker.cpp
 #include <iostream>
-#include <cstdlib> // 包含 system()
+#include <cstdlib>
+#include <chrono>
 
 using namespace std;
+using namespace std::chrono;
 
 int main() {
-    // 1. 编译其他三个文件 (如果是 Windows，去掉 -o 及后面的部分，或者保留也可以)
-    // Linux / macOS 编译命令
-    system("g++ gen.cpp -o gen");
-    system("g++ main.cpp -o my");
-    system("g++ bf.cpp -o bf");
-
-    int test_cases = 10000; // 设置对拍次数
-    for (int i = 1; i <= test_cases; ++i) {
-        // 2. 运行生成器，将输出重定向到 in.txt
-        system("./gen > in.txt");  // Windows 系统请把 ./gen 改成 gen.exe
-
-        // 3. 将 in.txt 喂给暴力程序和待测程序
-        system("./bf < in.txt > bf.out"); // Windows: bf.exe < in.txt > bf.out
-        system("./my < in.txt > my.out"); // Windows: my.exe < in.txt > my.out
-
-        // 4. 对比输出文件
-        // Windows 系统请使用命令: system("fc bf.out my.out > nul")
-        // Linux / macOS 请使用命令: system("diff -Z bf.out my.out > /dev/null")
-        if (system("diff -Z bf.out my.out > /dev/null")) {
-            cout << "❌ Wrong Answer on Test " << i << "!" << endl;
-            cout << "Input data saved in in.txt" << endl;
-            break; // 发现错误，立刻停止
-        }
-
-        cout << "✅ Accepted on Test " << i << endl;
+    cout << "正在编译中..." << endl;
+    // 开启 O2 优化，提升暴力程序的运行速度
+    if (system("g++ gen.cpp -o gen -O2") != 0 ||
+        system("g++ toc.cpp -o my -O2") != 0 ||
+        system("g++ main.cpp -o bf -O2") != 0) {
+        cout << "❌ 编译失败！请检查源文件。" << endl;
+        return 1;
     }
+    cout << "✅ 编译成功，开始对拍！\n" << endl;
+
+    int max_tests = 100000;
+    for (int i = 1; i <= max_tests; ++i) {
+        system("./gen > in.txt");
+
+        // 可选：你甚至可以加入 time 或者利用 chrono 判断程序是否 TLE (超时)
+        system("./bf < in.txt > bf.out");
+        system("./my < in.txt > my.out");
+
+        // if(i == 50){
+        //     cout << "----------------------------------------" << endl;
+        //     cout << i << "----------------------------------------" << endl;
+        //     cout << "【输入数据 in.txt (由于太长可能只展示前20行)】:" << endl;
+        //     system("cat in.txt");
+        //     cout << "----------------------------------------" << endl;
+
+        //     cout << "bf.out" << endl;
+        //     system("cat bf.out");
+        //     cout << "----------------------------------------" << endl;
+        //     cout << "my.out" << endl;
+        //     system("cat my.out");
+
+        //     cout << "----------------------------------------" << endl;
+        // }
+
+        if (system("diff -Z bf.out my.out > /dev/null")) {
+            cout << "\n\n❌ Wrong Answer on Test " << i << "!" << endl;
+
+            cout << "----------------------------------------" << endl;
+            cout << "【输入数据 in.txt (由于太长可能只展示前20行)】:" << endl;
+            system("head -n 20 in.txt");
+            cout << "----------------------------------------" << endl;
+            cout << "【正确输出 bf.out】:" << endl;
+            system("cat bf.out");
+            cout << "----------------------------------------" << endl;
+            cout << "【你的输出 my.out】:" << endl;
+            system("cat my.out");
+            cout << "----------------------------------------" << endl;
+            // return 0; // 发现错误，立刻停止
+        }
+        cout << "\r✅ Accepted on Test " << i << " / " << max_tests << flush;
+    }
+    cout << "\n🎉 对拍结束，未发现问题！" << endl;
     return 0;
 }

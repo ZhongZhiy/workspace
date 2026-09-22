@@ -45,3 +45,23 @@
   1. **清空**：把 `inbox.org` 彻底清空，全部分发出去。
   2. **维护**：扫视 `gtd.org`，把过期做不完的取消（`CANCELED`）或延期，检查每个项目是否都有明确的“下一步动作”。
   3. **唤醒**：看一眼 `someday.org`，看看有没有什么沉睡的想法这周想启动了，如果有，移入 `gtd.org`。
+
+---
+
+## ⌨️ 常用快捷键速查
+
+* **快速捕获 (Capture)**: `<Leader>oc`
+  * `t`: 待办 (Task) | `w`: 工作 (Work) | `k`: 想法 (Idea) | `n`: 随手记 (Note) | `i`: 带自定义标签任务
+  * 浮窗内保存: `<C-c>` 或 `<Leader>w`
+  * 浮窗内取消并退出: 普通模式按 `q` 或 `<Esc>`（原生键 `<Leader>ok`）
+* **超级议程 (Super Agenda)**:
+  * 浮窗超级日程: `<Leader>oa`
+  * 全屏超级日程: `<Leader>oF`
+  * 议程内快速单键过滤: `ot`(待办) / `on`(下一步) / `og`(进行中) / `ow`(等待) / `od`(完成) / `oa`(重置过滤)
+* **Org 缓冲内编辑**:
+  * 循环切换状态: `t` 或 `cit` | 切换复选框: `<C-Space>`
+  * 重分类 (Refile): `<Leader>or` | 切换归档标签: `<Leader>oA`
+  * 排期: `<Leader>ois` | 截止时间: `<Leader>oid`
+
+> 详细配置与更新日志请参阅配置文档：`~/.config/nvim/docs/orgmode.md`
+

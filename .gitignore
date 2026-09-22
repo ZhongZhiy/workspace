@@ -8,6 +8,7 @@ zhongzhiy/.obsidian/workspace-mobile.json
 # 社区插件的缓存文件（包含已安装插件的列表缓存等，通常不需要同步）
 zhongzhiy/.obsidian/plugins/hotkeys-for-templates/
 zhongzhiy/.obsidian/.trash/
+zhongzhiy/.obsidian/**.json
 
 # -------------------------------------------------------------------
 # 2. 备选忽略：根据你的设备情况决定是否注释

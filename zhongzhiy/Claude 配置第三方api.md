@@ -1,3 +1,10 @@
+---
+tags:
+  - Linux
+  - ai
+---
+
+
 Claude Code 把“是否已完成首次引导”的状态死死地记录在主目录下的另一个隐藏文件 **`~/.claude.json`** 里
 
 写入`'{ "hasCompletedOnboarding": true } | save -f ~/.claude.json`来重置引导
